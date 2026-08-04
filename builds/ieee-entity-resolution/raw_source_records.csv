@@ -1,0 +1,561 @@
+record_id,source_system,name,email,phone,member_number,member_grade,society,section,address,record_created_date
+MBR_100001,IEEE Membership DB,D. Johnson,d.ohnson@ieee.org,265-423-5116,83735650,Member,IEEE Power & Energy Society,UK and Ireland Section,"New Jamesside, MT",2024-02-26
+MBR_100002,IEEE Membership DB,Cassandra Roman,cr.oman@ieee.org,+1-752-553-4192,95072954,Senior Member,IEEE Industry Applications Society,Central NJ Section,"161 Calderon River Suite 931, Lake Jeremyport, Belgium",2023-07-02
+SEC_100003,Local Section Roster,Cassandra Roman,c.roman@ieee.org,+1-752-553-4192,95072954,Senior Member,IEEE Industry Applications Society,Central NJ Section,"161 Calderon River Suite 931, Lake Jeremyport",2026-04-02
+XPL_100004,IEEE Xplore Access,C. Roman,c.roman@ieee.org,,95072954,,IEEE Industry Applications Society,,"161 Calderon River Suite 931, Lake Jeremyport, Belgium",2025-08-05
+CONF_100005,IEEE Conference Registration,Cassandra Roman,cassandrar@outlook.com,(752) 553-4192,95072954,,IEEE Industry Applications Society,,"Lake Jeremyport, Belgium",2025-08-04
+MBR_100006,IEEE Membership DB,Jessica Martin,jessica.martin@ieee.org,+1-423-884-9696,90584847,Member,IEEE Computer Society,UK and Ireland Section,"New Nancy, Germany",2023-03-27
+XPL_100007,IEEE Xplore Access,Jessica Martin,jessica.martin@ieee.org,(423) 884-9696,90584847,,IEEE Computer Society,,"8350 Lydia Valley Suite 641, New Nancy, Germany",2022-09-10
+SEC_100008,Local Section Roster,Jessica Martin,jmartin@robinson-bright.edu,,90584847,Member,IEEE Industry Applications Society,UK and Ireland Section,"8350 Lydia Valley Suite 641, New Nancy",2026-06-11
+MBR_100009,IEEE Membership DB,"Davis, William",william.davis@ieee.org,(146) 270-4828,83743069,Member,IEEE Communications Society,Sydney Section,"22691 James Mountain, Tashatown",2025-11-17
+XPL_100010,IEEE Xplore Access,"Davis, William",william.dais@ieee.org,146.270.4828,,,IEEE Communications Society,,"22691 James Mountain, Tashatown, TX",2025-10-20
+SEC_100011,Local Section Roster,William Davis,william.davis@ieee.org,,83743069,Member,IEEE Communications Society,Sydney Section,"22691 James Mountain, Tashatown",2023-06-26
+MBR_100012,IEEE Membership DB,M. Romero,meagan.romeor@ieee.org,(718) 227-8248,94700199,Graduate Student Member,IEEE Robotics and Automation Society,Santa Clara Valley Section,"52880 Burns Creek, Natashaport, IA",2025-03-04
+MBR_100013,IEEE Membership DB,Rodney Lewis,rodneyl@ieee.org,(103) 105-1834,96287807,Member,IEEE Computer Society,Beijing Section,"East Jeffreymouth, AK",2026-03-02
+SOC_100014,Society Directory,Rodney Lewis,r.lewis@hotmail.com,103.105.1834,96287807,,IEEE Communications Society,,"465 Lam Mission, East Jeffreymouth, AK",2023-11-30
+CONF_100015,IEEE Conference Registration,Rodney Lewis,rlewis@gmail.com,,,,IEEE Communications Society,,"465 Lam Mission, East Jeffreymouth, AK",2026-06-04
+SEC_100016,Local Section Roster,Rodney,rodney.lewis@hotmail.com,103.105.1834,96287807,Member,IEEE Communications Society,Beijing Section,,2026-06-30
+MBR_100017,IEEE Membership DB,T. Ryan,t.ryan@ieee.org,624-731-7810,87304829,Associate Member,IEEE Signal Processing Society,Munich Section,"76311 Gomez Loop Suite 010, Chandlerville, IA",2021-09-03
+MBR_100018,IEEE Membership DB,Yvette Huff,yvetteh@ieee.org,723-430-9805,93548459,Member,IEEE Signal Processing Society,UK and Ireland Section,"26773 Barrera Expressway, Smithfurt, KS",2022-11-21
+MBR_100019,IEEE Membership DB,Brendan Woods,brendanw@ieee.org,(998) 543-5346,95341910,Member,IEEE Industry Applications Society,Santa Clara Valley Section,"81219 Emma Freeway, Wilsonshire, IA",2025-08-15
+MBR_100020,IEEE Membership DB,Stephen Hickman,stephen.hickman@ieee.org,+1-980-841-2411,98227370,Senior Member,IEEE Signal Processing Society,Munich Section,"79911 William Curve, Nicolebury, MN",2025-01-10
+CONF_100021,IEEE Conference Registration,Stephen Hickman,s.hikman@yahoo.com,+1-980-841-2411,,,IEEE Signal Processing Society,,"Nicolebury, MN",2022-05-08
+SOC_100022,Society Directory,Stephen Hickman,s.hickan@tran.edu,+1-980-841-2411,98227370,,IEEE Signal Processing Society,,"79911 William Curve, Nicolebury",2025-10-16
+MBR_100023,IEEE Membership DB,"Harris, Jennifer",jharis@ieee.org,011-280-5982,88372828,Senior Member,IEEE Power & Energy Society,Munich Section,"740 Cynthia Village Suite 005, Lake Tina, Central African Republic",2025-11-25
+XPL_100024,IEEE Xplore Access,Jennifer Harris,jharris@ieee.org,011.280.5982,,,IEEE Communications Society,,"740 Cynthia Village Suite 005, Lake Tina, Central African Republic",2026-05-17
+MBR_100025,IEEE Membership DB,"Flynn, Rachel",rachel.flynn@ieee.org,,82329373,Associate Member,IEEE Power & Energy Society,Toronto Section,"3315 Dickson Summit, East Michelle, South Georgia and the South Sandwich Islands",2024-07-27
+CONF_100026,IEEE Conference Registration,Rachel F.,rflynn@yahoo.com,563.421.6073,82329373,,IEEE Power & Energy Society,,"3315 Dickson Summit, East Michelle, South Georgia and the South Sandwich Islands",2024-01-23
+SOC_100027,Society Directory,Rachel Flynn,rachelf@ieee.org,,82329373,,IEEE Power & Energy Society,,,2022-10-15
+MBR_100028,IEEE Membership DB,Lisa Stevens,lisas@ieee.org,+1-196-556-9816,89920542,Senior Member,IEEE Communications Society,Tokyo Section,"30365 Lin Trail Suite 586, Sheilaville",2025-04-23
+SEC_100029,Local Section Roster,Lisa Stevens,l.stevens@hotmail.com,+1-196-556-9816,89920542,Senior Member,IEEE Communications Society,Tokyo Section,"30365 Lin Trail Suite 586, Sheilaville, Turkey",2022-09-26
+MBR_100030,IEEE Membership DB,James Williams,james.williams@ieee.org,(662) 994-6804,81550675,Member,IEEE Robotics and Automation Society,Beijing Section,"Elizabethmouth, Iraq",2021-12-31
+XPL_100031,IEEE Xplore Access,James,j.williams@ieee.org,,81550675,,IEEE Robotics and Automation Society,,"88356 Stacy Isle Suite 148, Elizabethmouth, Iraq",2023-07-13
+SEC_100032,Local Section Roster,James,jwilliams@ieee.org,662.994.6804,81550675,Member,IEEE Robotics and Automation Society,Beijing Section,"88356 Stacy Isle Suite 148, Elizabethmouth, Iraq",2025-08-13
+SOC_100033,Society Directory,James W.,jwilliams@yahoo.com,+1-662-994-6804,81550675,,IEEE Robotics and Automation Society,,"Elizabethmouth, Iraq",2022-12-29
+MBR_100034,IEEE Membership DB,Jason Floyd,jfloyd@ieee.org,,87179067,Member,IEEE Robotics and Automation Society,Toronto Section,"7738 Leon Underpass Apt. 148, Clarencebury, TX",2021-10-27
+SOC_100035,Society Directory,Jason Floyd,jfloyd@ieee.org,(037) 917-6936,87179067,,IEEE Robotics and Automation Society,,"7738 Leon Underpass Apt. 148, Clarencebury, TX",2022-01-12
+MBR_100036,IEEE Membership DB,Grace Stafford,grace.stafford@ieee.org,+1-687-277-4348,84282478,Associate Member,IEEE Signal Processing Society,Central NJ Section,"3287 Angela Vista, South Dennismouth, Papua New Guinea",2024-09-03
+MBR_100037,IEEE Membership DB,Chris M.,chrism@ieee.org,(096) 705-4668,92721364,Member,IEEE Communications Society,Tokyo Section,"Riveramouth, MT",2021-10-20
+MBR_100038,IEEE Membership DB,J. Marsh,jessica.marsh@ieee.org,(016) 272-0465,85113103,Member,IEEE Robotics and Automation Society,Santa Clara Valley Section,,2024-05-27
+SEC_100039,Local Section Roster,Jessica Marsh,j.marsh@gmail.com,016-272-0465,85113103,Member,IEEE Robotics and Automation Society,Santa Clara Valley Section,"3467 Paul Skyway, Ramseymouth, PW",2021-09-27
+CONF_100040,IEEE Conference Registration,J. Marsh,j.marsh@gmail.com,+1-016-272-0465,,,IEEE Robotics and Automation Society,,"3467 Paul Skyway, Ramseymouth, PW",2024-02-25
+MBR_100041,IEEE Membership DB,Shawn Rogers,s.rogers@ieee.org,937.452.9912,85133531,Member,IEEE Antennas and Propagation Society,Munich Section,"6417 Kaitlyn Center Suite 310, East Jamestown",2024-08-15
+SOC_100042,Society Directory,Shawn Rogers,shawn.rogers@yahoo.com,+1-937-452-9912,85133531,,IEEE Antennas and Propagation Society,,"6417 Kaitlyn Center Suite 310, East Jamestown, Nigeria",2024-12-16
+XPL_100043,IEEE Xplore Access,S. Rogers,s.rogers@ieee.org,937-452-9912,,,IEEE Antennas and Propagation Society,,"East Jamestown, Nigeria",2022-01-23
+SEC_100044,Local Section Roster,Shawn Rogers,shawn.rogers@ieee.org,+1-937-452-9912,85133531,Member,IEEE Antennas and Propagation Society,Munich Section,"6417 Kaitlyn Center Suite 310, East Jamestown",2024-02-14
+MBR_100045,IEEE Membership DB,Daniel Johnson,daniel.johnson@ieee.org,506-716-5726,86212597,Member,IEEE Signal Processing Society,Sydney Section,"663 Brittany Village Apt. 149, Port Tonyaton, MI",2024-11-13
+CONF_100046,IEEE Conference Registration,D. Johnson,dohnson@outlook.com,506.716.5726,,,IEEE Antennas and Propagation Society,,"663 Brittany Village Apt. 149, Port Tonyaton, MI",2021-09-04
+SOC_100047,Society Directory,Daniel Johnson,djohnson@ieee.org,(506) 716-5726,86212597,,IEEE Antennas and Propagation Society,,"663 Brittany Village Apt. 149, Port Tonyaton, MI",2024-10-20
+MBR_100048,IEEE Membership DB,J. Morton,joseph.morton@ieee.org,(454) 948-0831,87572803,Fellow,IEEE Robotics and Automation Society,Sydney Section,"6945 Mariah Corners Suite 737, Rogersfort, Thailand",2026-02-01
+SEC_100049,Local Section Roster,Joseph Morton,jmorton@ieee.org,(454) 948-0831,87572803,Fellow,IEEE Robotics and Automation Society,Sydney Section,"6945 Mariah Corners Suite 737, Rogersfort, Thailand",2022-07-26
+SOC_100050,Society Directory,"Morton, Joseph",joseph.morton@ieee.org,454-948-0831,87572803,,IEEE Robotics and Automation Society,,"6945 Mariah Corners Suite 737, Rogersfort",2022-11-16
+CONF_100051,IEEE Conference Registration,Joseph Morton,josph.morton@yahoo.com,+1-454-948-0831,87572803,,IEEE Robotics and Automation Society,,"6945 Mariah Corners Suite 737, Rogersfort",2024-04-01
+MBR_100052,IEEE Membership DB,Jennifer Freeman,jenniferf@ieee.org,568.557.4443,99300479,Senior Member,IEEE Computer Society,Bangalore Section,,2024-03-20
+SOC_100053,Society Directory,Jennifer Freeman,jennifer.freeman@ieee.org,+1-568-557-4443,99300479,,IEEE Computer Society,,"Holtport, TN",2022-03-30
+MBR_100054,IEEE Membership DB,D. Herrera,dherrrea@ieee.org,008.427.1094,88469100,Member,IEEE Industry Applications Society,Tokyo Section,"West Jeremy, Christmas Island",2023-06-06
+MBR_100055,IEEE Membership DB,Tammy King,tikng@ieee.org,964-990-9133,89664654,Member,IEEE Antennas and Propagation Society,Sydney Section,"16719 Edward Valleys Suite 131, Obrienbury",2023-08-27
+XPL_100056,IEEE Xplore Access,Tammy K.,tking@ieee.org,964-990-9133,,,IEEE Antennas and Propagation Society,,"16719 Edward Valleys Suite 131, Obrienbury, WI",2025-09-28
+MBR_100057,IEEE Membership DB,Glenn Jones,glennj@ieee.org,618.324.2102,93923157,Member,IEEE Industry Applications Society,Munich Section,"7974 Jesse Squares, Jacquelinemouth",2025-06-13
+SOC_100058,Society Directory,Glenn,gjones@ieee.org,(618) 324-2102,93923157,,IEEE Industry Applications Society,,"7974 Jesse Squares, Jacquelinemouth, CA",2021-12-16
+CONF_100059,IEEE Conference Registration,Glenn Jones,gjones@outlook.com,+1-618-324-2102,,,IEEE Industry Applications Society,,"7974 Jesse Squares, Jacquelinemouth, CA",2023-07-23
+MBR_100060,IEEE Membership DB,"Holloway, Brooke",b.holloway@ieee.org,+1-490-278-7429,88892688,Member,IEEE Antennas and Propagation Society,Tokyo Section,,2024-01-28
+SEC_100061,Local Section Roster,Brooke,bholloway@walters-vasquez.edu,(490) 278-7429,88892688,Member,IEEE Antennas and Propagation Society,Tokyo Section,"1746 Mason Park Suite 190, Navarroview, Anguilla",2024-11-11
+SOC_100062,Society Directory,Brooke Holloway,brooke.holloway@walters-vasquez.edu,490-278-7429,88892688,,IEEE Antennas and Propagation Society,,"1746 Mason Park Suite 190, Navarroview, Anguilla",2024-05-12
+XPL_100063,IEEE Xplore Access,B. Holloway,bholloway@ieee.org,490.278.7429,88892688,,IEEE Antennas and Propagation Society,,"Navarroview, Anguilla",2021-12-30
+MBR_100064,IEEE Membership DB,Christopher Bailey,cristopherb@ieee.org,+1-038-597-7034,90137521,Member,IEEE Robotics and Automation Society,Sydney Section,"Marcusfurt, VI",2022-01-04
+SEC_100065,Local Section Roster,Christopher Bailey,christopherb@hotmail.com,038-597-7034,90137521,Member,IEEE Antennas and Propagation Society,Sydney Section,"Marcusfurt, VI",2026-04-15
+SOC_100066,Society Directory,Christopher Bailey,c.bailey@hotmail.com,(038) 597-7034,90137521,,IEEE Robotics and Automation Society,,,2024-03-06
+MBR_100067,IEEE Membership DB,David,david.roberts@ieee.org,378.263.9821,85521194,Member,IEEE Industry Applications Society,Sydney Section,,2024-06-15
+CONF_100068,IEEE Conference Registration,David Roberts,d.roberts@ieee.org,+1-378-263-9821,,,IEEE Industry Applications Society,,"South Sarah, French Guiana",2021-11-23
+XPL_100069,IEEE Xplore Access,D. Roberts,d.roberts@ieee.org,+1-378-263-9821,85521194,,IEEE Industry Applications Society,,,2021-11-20
+MBR_100070,IEEE Membership DB,K. Dickerson,kdickerson@ieee.org,396.360.5766,90212780,Associate Member,IEEE Computer Society,Santa Clara Valley Section,,2022-08-21
+SOC_100071,Society Directory,Kendra Dickerson,kdickerson@sparks.edu,,90212780,,IEEE Computer Society,,"404 Monroe Prairie Suite 278, Reedside, WV",2023-06-15
+XPL_100072,IEEE Xplore Access,"Dickerson, Kendra",k.dickerson@ieee.org,(396) 360-5766,,,IEEE Computer Society,,,2025-04-26
+SEC_100073,Local Section Roster,K. Dickerson,k.dickerson@sparks.edu,396-360-5766,90212780,Associate Member,IEEE Computer Society,Santa Clara Valley Section,"Reedside, WV",2021-11-08
+MBR_100074,IEEE Membership DB,Tammie Martinez,tamimem@ieee.org,(780) 913-4316,84361812,Senior Member,IEEE Industry Applications Society,Boston Section,"Cindyfurt, SD",2022-02-22
+CONF_100075,IEEE Conference Registration,Tammie Martinez,tmartinez@gmail.com,,,,IEEE Signal Processing Society,,"71870 Robert Shoal Apt. 174, Cindyfurt, SD",2024-10-25
+MBR_100076,IEEE Membership DB,"Wallace, Monique",moniqe.wallace@ieee.org,+1-374-740-7482,96071965,Graduate Student Member,IEEE Robotics and Automation Society,Santa Clara Valley Section,"05045 Jordan Gardens Suite 922, North Chelsea, MS",2024-11-08
+MBR_100077,IEEE Membership DB,Vanessa Evans,vevans@ieee.org,097.439.5339,96963479,Senior Member,IEEE Computer Society,Santa Clara Valley Section,"Baileyport, Angola",2024-10-02
+SOC_100078,Society Directory,V. Evans,vanessa.evans@byrd-le.edu,(097) 439-5339,96963479,,IEEE Computer Society,,"474 Yvonne Walk Suite 136, Baileyport, Angola",2025-12-19
+MBR_100079,IEEE Membership DB,Donna Massey,donnam@ieee.org,858-842-4745,98668704,Member,IEEE Signal Processing Society,Munich Section,"047 Bethany Street, North Renee, MD",2021-10-03
+SOC_100080,Society Directory,Donna Massey,d.massey@gmail.com,858.842.4745,98668704,,IEEE Industry Applications Society,,"047 Bethany Street, North Renee, MD",2023-01-08
+SEC_100081,Local Section Roster,D. Massey,donam@gmail.com,+1-858-842-4745,98668704,Member,IEEE Signal Processing Society,Munich Section,"047 Bethany Street, North Renee, MD",2025-09-14
+MBR_100082,IEEE Membership DB,Taylor Jones,t.jones@ieee.org,137.098.5931,97800045,Member,IEEE Robotics and Automation Society,Sydney Section,"Amandamouth, MN",2025-04-19
+CONF_100083,IEEE Conference Registration,Taylor J.,taylorj@gmail.com,137.098.5931,97800045,,IEEE Robotics and Automation Society,,"685 Krystal Bridge, Amandamouth",2023-02-23
+SOC_100084,Society Directory,Taylor Jones,taylorj@ieee.org,+1-137-098-5931,97800045,,IEEE Robotics and Automation Society,,"685 Krystal Bridge, Amandamouth, MN",2023-09-20
+MBR_100085,IEEE Membership DB,"Blankenship, Madison",mblankenship@ieee.org,(179) 640-5377,91883878,Member,IEEE Communications Society,Central NJ Section,"612 Sophia Hollow Suite 113, South Shawn",2022-01-05
+MBR_100086,IEEE Membership DB,Tina Richardson,tinar@ieee.org,(529) 042-2842,95438290,Graduate Student Member,IEEE Power & Energy Society,Santa Clara Valley Section,"64317 Elizabeth Row Apt. 053, Port Anne",2023-08-25
+SOC_100087,Society Directory,Tina Richardson,tinar@gmail.com,529-042-2842,95438290,,IEEE Power & Energy Society,,"64317 Elizabeth Row Apt. 053, Port Anne, CA",2025-05-26
+SEC_100088,Local Section Roster,Tina Richardson,t.richardson@gmail.com,529.042.2842,95438290,Graduate Student Member,IEEE Power & Energy Society,Santa Clara Valley Section,"64317 Elizabeth Row Apt. 053, Port Anne",2023-04-05
+CONF_100089,IEEE Conference Registration,Tina Richardson,tinar@yahoo.com,529.042.2842,,,IEEE Power & Energy Society,,"Port Anne, CA",2024-07-14
+MBR_100090,IEEE Membership DB,D. Johnson,d.johnson@ieee.org,+1-783-908-4700,98599770,Associate Member,IEEE Antennas and Propagation Society,Central NJ Section,,2022-11-19
+SEC_100091,Local Section Roster,Donna Johnson,djohnson@boone-simmons.edu,783-908-4700,98599770,Associate Member,IEEE Robotics and Automation Society,Central NJ Section,"3950 Joseph Crossroad, Foxland, NJ",2024-03-19
+MBR_100092,IEEE Membership DB,Daniel Joseph,danielj@ieee.org,736.576.6156,91228968,Member,IEEE Computer Society,Munich Section,"15921 Joshua Roads Suite 698, Shawnchester, Bolivia",2026-01-12
+SEC_100093,Local Section Roster,Daniel Joseph,danielj@ieee.org,(736) 576-6156,91228968,Member,IEEE Computer Society,Munich Section,"Shawnchester, Bolivia",2024-06-23
+MBR_100094,IEEE Membership DB,Elizabeth Brooks,e.brooks@ieee.org,,87187113,Member,IEEE Industry Applications Society,Sydney Section,"Lisaside, AR",2025-08-23
+CONF_100095,IEEE Conference Registration,Elizabeth Brooks,ebroks@outlook.com,604.945.1983,,,IEEE Industry Applications Society,,"Lisaside, AR",2025-03-12
+MBR_100096,IEEE Membership DB,Melanie Bell,melanie.bell@ieee.org,201-836-6752,95737552,Graduate Student Member,IEEE Communications Society,Toronto Section,"49368 Chelsea Shoals Suite 024, Sandrastad, Albania",2023-10-24
+SOC_100097,Society Directory,"Bell, Melanie",m.bell@ieee.org,+1-201-836-6752,95737552,,IEEE Communications Society,,"49368 Chelsea Shoals Suite 024, Sandrastad",2021-11-06
+XPL_100098,IEEE Xplore Access,Melanie Bell,mbell@ieee.org,,95737552,,IEEE Communications Society,,"49368 Chelsea Shoals Suite 024, Sandrastad",2024-05-05
+SEC_100099,Local Section Roster,Melanie,meanie.bell@ieee.org,201-836-6752,95737552,Graduate Student Member,IEEE Communications Society,Toronto Section,"49368 Chelsea Shoals Suite 024, Sandrastad, Albania",2021-11-08
+MBR_100100,IEEE Membership DB,S. Carlson,s.calson@ieee.org,497-840-3690,97709073,Member,IEEE Industry Applications Society,Bangalore Section,"Perryborough, WV",2026-07-01
+SOC_100101,Society Directory,S. Carlson,scarlson@ieee.org,+1-497-840-3690,97709073,,IEEE Industry Applications Society,,"29014 Stanley Oval, Perryborough, WV",2023-08-30
+MBR_100102,IEEE Membership DB,James Dougherty,jamesd@ieee.org,(607) 159-6966,93101453,Graduate Student Member,IEEE Computer Society,Tokyo Section,"South Amanda, Denmark",2024-08-23
+MBR_100103,IEEE Membership DB,Darius S.,d.smith@ieee.org,883-552-3124,81487658,Member,IEEE Power & Energy Society,Boston Section,"97516 John Radial Suite 816, Juliebury, Grenada",2024-10-07
+XPL_100104,IEEE Xplore Access,Darius Smith,dairuss@ieee.org,,,,IEEE Power & Energy Society,,"97516 John Radial Suite 816, Juliebury, Grenada",2022-01-09
+CONF_100105,IEEE Conference Registration,Darius Smith,dsmith@ieee.org,883-552-3124,81487658,,IEEE Signal Processing Society,,"97516 John Radial Suite 816, Juliebury",2025-01-04
+SEC_100106,Local Section Roster,DARIUS SMITH,d.smith@ieee.org,,81487658,Member,IEEE Power & Energy Society,Boston Section,"97516 John Radial Suite 816, Juliebury, Grenada",2025-12-06
+MBR_100107,IEEE Membership DB,Kathleen Rios,k.rios@ieee.org,+1-490-581-4770,94594181,Member,IEEE Computer Society,Central NJ Section,"779 Maldonado Port, Michellemouth, FL",2023-02-11
+XPL_100108,IEEE Xplore Access,Kathleen Rios,kathleenr@ieee.org,490-581-4770,94594181,,IEEE Industry Applications Society,,"779 Maldonado Port, Michellemouth",2025-02-08
+CONF_100109,IEEE Conference Registration,Kathleen,kathleen.rios@gmail.com,(490) 581-4770,94594181,,IEEE Industry Applications Society,,"779 Maldonado Port, Michellemouth, FL",2023-01-28
+MBR_100110,IEEE Membership DB,Chase Lin,chasel@ieee.org,207-151-8203,85793386,Graduate Student Member,IEEE Robotics and Automation Society,Santa Clara Valley Section,"South Reginashire, Pakistan",2025-10-29
+SEC_100111,Local Section Roster,Chase,chase.lin@kim.edu,+1-207-151-8203,85793386,Graduate Student Member,IEEE Communications Society,Santa Clara Valley Section,"986 Carpenter Turnpike, South Reginashire",2023-01-28
+SOC_100112,Society Directory,"Lin, Chase",chasel@ieee.org,207.151.8203,85793386,,IEEE Robotics and Automation Society,,"986 Carpenter Turnpike, South Reginashire",2021-11-21
+MBR_100113,IEEE Membership DB,Erik Watson,e.watson@ieee.org,914-865-2816,91559997,Member,IEEE Industry Applications Society,Munich Section,"6590 Jones Court Suite 449, West Christopher, Panama",2024-07-26
+SOC_100114,Society Directory,"Watson, Erik",e.watson@hotmail.com,+1-914-865-2816,91559997,,IEEE Industry Applications Society,,"6590 Jones Court Suite 449, West Christopher, Panama",2023-07-08
+MBR_100115,IEEE Membership DB,MICHAEL COX,m.cx@ieee.org,622-292-7065,99483263,Member,IEEE Antennas and Propagation Society,Beijing Section,"New Kellihaven, Argentina",2022-12-04
+MBR_100116,IEEE Membership DB,Karen Bowers,k.bowers@ieee.org,240.758.1814,96711384,Graduate Student Member,IEEE Signal Processing Society,Bangalore Section,"347 Micheal Ports, Murrayport, Slovakia (Slovak Republic)",2024-10-02
+SOC_100117,Society Directory,"Bowers, Karen",karenb@gmail.com,+1-240-758-1814,96711384,,IEEE Signal Processing Society,,"347 Micheal Ports, Murrayport",2025-02-24
+MBR_100118,IEEE Membership DB,"Nelson, Kathryn",kathryn.nelson@ieee.org,220.472.7790,84727069,Member,IEEE Power & Energy Society,Tokyo Section,"1375 Robert Locks, Joeland",2026-05-18
+SEC_100119,Local Section Roster,Kathryn Nelson,knelson@ieee.org,+1-220-472-7790,84727069,Member,IEEE Power & Energy Society,Tokyo Section,"1375 Robert Locks, Joeland, Holy See (Vatican City State)",2023-02-27
+MBR_100120,IEEE Membership DB,Mary Dunn,mary.dunn@ieee.org,539.621.8518,89588124,Senior Member,IEEE Industry Applications Society,Santa Clara Valley Section,"43410 Robert Underpass Suite 117, Lake Zacharybury",2024-12-09
+SOC_100121,Society Directory,MARY DUNN,mary.dunn@ieee.org,+1-539-621-8518,89588124,,IEEE Industry Applications Society,,"43410 Robert Underpass Suite 117, Lake Zacharybury",2025-09-12
+XPL_100122,IEEE Xplore Access,Mary Dunn,m.unn@ieee.org,539.621.8518,,,IEEE Industry Applications Society,,"43410 Robert Underpass Suite 117, Lake Zacharybury, VT",2023-01-26
+MBR_100123,IEEE Membership DB,Peter Harrison,peterh@ieee.org,(170) 430-3054,97103167,Senior Member,IEEE Antennas and Propagation Society,Beijing Section,"4051 Allen Shoals Apt. 952, West Amyburgh",2022-10-31
+SEC_100124,Local Section Roster,Peter H.,p.harrison@sanders.edu,170.430.3054,97103167,Senior Member,IEEE Antennas and Propagation Society,Beijing Section,"4051 Allen Shoals Apt. 952, West Amyburgh, MP",2026-05-01
+SOC_100125,Society Directory,P. Harrison,peter.ahrrison@ieee.org,170-430-3054,97103167,,IEEE Antennas and Propagation Society,,"4051 Allen Shoals Apt. 952, West Amyburgh",2023-11-12
+MBR_100126,IEEE Membership DB,Benjamin Lucas,benjaminl@ieee.org,+1-692-845-1154,96051466,Senior Member,IEEE Power & Energy Society,Boston Section,"Holtstad, AS",2022-08-21
+SEC_100127,Local Section Roster,Benjamin L.,blucas@ieee.org,,96051466,Senior Member,IEEE Power & Energy Society,Boston Section,"Holtstad, AS",2025-10-28
+SOC_100128,Society Directory,B. Lucas,blucas@griffin-robbins.edu,,96051466,,IEEE Power & Energy Society,,"0541 Kim Locks Suite 652, Holtstad, AS",2024-11-22
+MBR_100129,IEEE Membership DB,Garrett Wallace,garrettw.allace@ieee.org,556-909-2755,86780277,Life Member,IEEE Power & Energy Society,Munich Section,"59640 Emily Lodge Suite 820, Port Cathy, Slovenia",2025-08-15
+XPL_100130,IEEE Xplore Access,Garrett Wallace,gwallace@ieee.org,+1-556-909-2755,,,IEEE Computer Society,,"59640 Emily Lodge Suite 820, Port Cathy, Slovenia",2022-11-07
+MBR_100131,IEEE Membership DB,Kathryn,kberry@ieee.org,+1-172-715-5188,81251521,Graduate Student Member,IEEE Communications Society,Tokyo Section,"5431 Jill Parks Suite 814, Janeborough, New Zealand",2023-04-28
+MBR_100132,IEEE Membership DB,Patricia York,patriciay@ieee.org,+1-467-866-9125,83600413,Graduate Student Member,IEEE Power & Energy Society,Bangalore Section,"West Angelastad, NH",2024-08-13
+XPL_100133,IEEE Xplore Access,Patricia Y.,patricia.york@ieee.org,467.866.9125,,,IEEE Power & Energy Society,,"8313 Joel Park, West Angelastad, NH",2022-10-03
+SEC_100134,Local Section Roster,Patricia York,pyork@jones.edu,+1-467-866-9125,83600413,Graduate Student Member,IEEE Power & Energy Society,Bangalore Section,"8313 Joel Park, West Angelastad, NH",2025-01-04
+SOC_100135,Society Directory,Patricia,p.york@jones.edu,467-866-9125,83600413,,IEEE Power & Energy Society,,"8313 Joel Park, West Angelastad, NH",2024-10-14
+MBR_100136,IEEE Membership DB,David Calderon,david.calderon@ieee.org,(842) 498-1829,87352735,Associate Member,IEEE Robotics and Automation Society,Boston Section,"68018 Kevin Estates, Sarahbury",2024-06-24
+SOC_100137,Society Directory,David Calderon,d.calderon@ieee.org,,87352735,,IEEE Robotics and Automation Society,,"68018 Kevin Estates, Sarahbury, MI",2025-08-02
+SEC_100138,Local Section Roster,David Calderon,d.calderon@ieee.org,842.498.1829,87352735,Associate Member,IEEE Robotics and Automation Society,Boston Section,"68018 Kevin Estates, Sarahbury, MI",2021-12-21
+MBR_100139,IEEE Membership DB,Cassie Kirby,c.kirby@ieee.org,(471) 027-6773,90340454,Senior Member,IEEE Robotics and Automation Society,Bangalore Section,,2024-11-24
+MBR_100140,IEEE Membership DB,J. Gross,jenniefrg@ieee.org,953-278-7747,86039171,Fellow,IEEE Industry Applications Society,Tokyo Section,"2588 Luis Mountain Apt. 473, North Brent, MS",2024-10-31
+SOC_100141,Society Directory,Jennifer Gross,jgross@davis.edu,+1-953-278-7747,86039171,,IEEE Industry Applications Society,,"2588 Luis Mountain Apt. 473, North Brent, MS",2022-06-11
+XPL_100142,IEEE Xplore Access,Jennifer G.,jgross@ieee.org,,86039171,,IEEE Industry Applications Society,,"2588 Luis Mountain Apt. 473, North Brent, MS",2023-03-06
+CONF_100143,IEEE Conference Registration,Jennifer Gross,jennifer.gross@gmail.com,953-278-7747,,,IEEE Industry Applications Society,,"2588 Luis Mountain Apt. 473, North Brent",2025-09-21
+MBR_100144,IEEE Membership DB,W. Levy,williaml@ieee.org,+1-650-609-8358,97490283,Member,IEEE Power & Energy Society,Bangalore Section,"Mitchelltown, PR",2024-10-28
+SOC_100145,Society Directory,William Levy,william.levy@jones-gordon.edu,650-609-8358,97490283,,IEEE Signal Processing Society,,"500 Simpson Ville, Mitchelltown, PR",2024-03-11
+MBR_100146,IEEE Membership DB,Kathy R.,k.ramirez@ieee.org,(298) 259-5269,93033180,Member,IEEE Communications Society,Toronto Section,"16558 Fischer Flat, Porterton, Argentina",2022-03-28
+CONF_100147,IEEE Conference Registration,K. Ramirez,kramirez@outlook.com,,,,IEEE Communications Society,,"16558 Fischer Flat, Porterton, Argentina",2025-06-10
+SEC_100148,Local Section Roster,Kathy,kramirez@kirby.edu,298-259-5269,93033180,Member,IEEE Communications Society,Toronto Section,"16558 Fischer Flat, Porterton, Argentina",2024-09-14
+MBR_100149,IEEE Membership DB,William Burns,william.burns@ieee.org,913.075.6263,96685857,Senior Member,IEEE Industry Applications Society,Sydney Section,"0551 Silva Underpass Apt. 974, Lake Brett, Lesotho",2025-03-20
+SEC_100150,Local Section Roster,William Burns,wburns@yahoo.com,,96685857,Senior Member,IEEE Industry Applications Society,Sydney Section,"0551 Silva Underpass Apt. 974, Lake Brett, Lesotho",2023-10-08
+MBR_100151,IEEE Membership DB,Warren Carr,w.carr@ieee.org,334-843-4437,95462855,Member,IEEE Industry Applications Society,Toronto Section,"028 Ann Shore Suite 865, South Rhonda, MA",2025-04-13
+XPL_100152,IEEE Xplore Access,Warren Carr,w.carr@ieee.org,334.843.4437,95462855,,IEEE Industry Applications Society,,"South Rhonda, MA",2024-03-14
+SEC_100153,Local Section Roster,Warren Carr,warrnc@ieee.org,,95462855,Member,IEEE Industry Applications Society,Toronto Section,"028 Ann Shore Suite 865, South Rhonda, MA",2025-09-03
+CONF_100154,IEEE Conference Registration,Warren Carr,warrenc@yahoo.com,+1-334-843-4437,95462855,,IEEE Industry Applications Society,,,2022-08-07
+MBR_100155,IEEE Membership DB,"Griffith, Sarah",sarah.griffith@ieee.org,933.083.3016,80317095,Senior Member,IEEE Antennas and Propagation Society,Sydney Section,"98665 Kelly Heights Apt. 574, Lewisside, Faroe Islands",2024-12-07
+CONF_100156,IEEE Conference Registration,"Griffith, Sarah",sarah.griffith@gmail.com,933-083-3016,,,IEEE Computer Society,,"98665 Kelly Heights Apt. 574, Lewisside",2024-04-10
+SEC_100157,Local Section Roster,"Griffith, Sarah",sarah.griffith@ieee.org,933.083.3016,80317095,Senior Member,IEEE Computer Society,Sydney Section,"Lewisside, Faroe Islands",2024-05-09
+MBR_100158,IEEE Membership DB,Kelli S.,ksmith@ieee.org,067.240.0499,91605119,Member,IEEE Robotics and Automation Society,UK and Ireland Section,"7734 Mitchell Circle, Lake Audreyside",2022-10-20
+SEC_100159,Local Section Roster,Kelli Smith,kelli.smith@ieee.org,067-240-0499,91605119,Member,IEEE Robotics and Automation Society,UK and Ireland Section,"7734 Mitchell Circle, Lake Audreyside, Saint Vincent and the Grenadines",2025-08-23
+CONF_100160,IEEE Conference Registration,Kelli S.,kllis@yahoo.com,+1-067-240-0499,91605119,,IEEE Robotics and Automation Society,,"7734 Mitchell Circle, Lake Audreyside, Saint Vincent and the Grenadines",2023-05-21
+XPL_100161,IEEE Xplore Access,K. Smith,k.sith@ieee.org,+1-067-240-0499,91605119,,IEEE Robotics and Automation Society,,"7734 Mitchell Circle, Lake Audreyside, Saint Vincent and the Grenadines",2022-02-20
+MBR_100162,IEEE Membership DB,Sarah Rogers,srogers@ieee.org,(932) 966-8516,84896760,Member,IEEE Robotics and Automation Society,Bangalore Section,"887 Melissa Mountain Suite 315, Lake Stephen, KS",2024-04-15
+MBR_100163,IEEE Membership DB,Shari Smith,ssmith@ieee.org,,92746991,Life Member,IEEE Power & Energy Society,Sydney Section,,2022-08-11
+SEC_100164,Local Section Roster,S. Smith,sharis@dunn.edu,933.272.7956,92746991,Life Member,IEEE Communications Society,Sydney Section,"74549 Jose Lake Apt. 017, Erikhaven, MH",2023-03-10
+MBR_100165,IEEE Membership DB,E. Robinson,elizabethr@ieee.org,258.713.9718,98458264,Member,IEEE Antennas and Propagation Society,Sydney Section,"New Danielside, United Kingdom",2023-02-26
+CONF_100166,IEEE Conference Registration,Elizabeth Robinson,erobinson@ieee.org,+1-258-713-9718,,,IEEE Antennas and Propagation Society,,"New Danielside, United Kingdom",2026-01-11
+XPL_100167,IEEE Xplore Access,Elizabeth Robinson,elizabethr@ieee.org,258.713.9718,98458264,,IEEE Antennas and Propagation Society,,,2025-11-30
+MBR_100168,IEEE Membership DB,Lindsey,l.chavez@ieee.org,,87416594,Member,IEEE Robotics and Automation Society,Sydney Section,"9087 Cummings Locks Suite 039, North Rodneyland, Mauritius",2022-05-31
+SEC_100169,Local Section Roster,Lindsey Chavez,lindseyc@ieee.org,622.656.7661,87416594,Member,IEEE Robotics and Automation Society,Sydney Section,"9087 Cummings Locks Suite 039, North Rodneyland, Mauritius",2022-06-17
+MBR_100170,IEEE Membership DB,Michelle Wilson,michellew@ieee.org,,81499314,Life Member,IEEE Computer Society,Central NJ Section,"230 Tiffany Mountain Suite 863, South Michael, Falkland Islands (Malvinas)",2025-06-22
+XPL_100171,IEEE Xplore Access,Michelle Wilson,mwilsn@ieee.org,033.119.0790,,,IEEE Computer Society,,"230 Tiffany Mountain Suite 863, South Michael, Falkland Islands (Malvinas)",2022-04-16
+MBR_100172,IEEE Membership DB,S. Fernandez,scottf@ieee.org,268-705-6856,98015005,Member,IEEE Power & Energy Society,UK and Ireland Section,"84395 Young Wells, Lake Adriana, MT",2024-11-02
+SEC_100173,Local Section Roster,"Fernandez, Scott",scott.fernandez@yahoo.com,(268) 705-6856,98015005,Member,IEEE Power & Energy Society,UK and Ireland Section,"84395 Young Wells, Lake Adriana, MT",2023-08-23
+SOC_100174,Society Directory,Scott Fernandez,sfernandez@ieee.org,268-705-6856,98015005,,IEEE Power & Energy Society,,"84395 Young Wells, Lake Adriana",2025-09-20
+XPL_100175,IEEE Xplore Access,Scott Fernandez,s.fernandez@ieee.org,,98015005,,IEEE Power & Energy Society,,"84395 Young Wells, Lake Adriana",2023-05-11
+MBR_100176,IEEE Membership DB,Edward Bennett,e.bennett@ieee.org,046-990-1398,81097065,Member,IEEE Signal Processing Society,Bangalore Section,,2021-11-08
+CONF_100177,IEEE Conference Registration,E. Bennett,edwardb@outlook.com,+1-046-990-1398,,,IEEE Signal Processing Society,,"34270 Faulkner Point Apt. 634, West Deborah, NV",2025-11-06
+SEC_100178,Local Section Roster,Edward B.,edward.bennett@mendoza.edu,+1-046-990-1398,81097065,Member,IEEE Signal Processing Society,Bangalore Section,"34270 Faulkner Point Apt. 634, West Deborah, NV",2024-02-09
+SOC_100179,Society Directory,Edward Bennett,edward.bennett@ieee.org,+1-046-990-1398,81097065,,IEEE Signal Processing Society,,"34270 Faulkner Point Apt. 634, West Deborah",2025-07-25
+MBR_100180,IEEE Membership DB,KEVIN STOUT,kstout@ieee.org,877.175.3556,93810877,Graduate Student Member,IEEE Power & Energy Society,Boston Section,"17393 Herman Plaza, Kimberlyfurt, Lao People's Democratic Republic",2022-01-19
+SEC_100181,Local Section Roster,"Stout, Kevin",kstout@gmail.com,+1-877-175-3556,93810877,Graduate Student Member,IEEE Power & Energy Society,Boston Section,"17393 Herman Plaza, Kimberlyfurt",2023-03-31
+MBR_100182,IEEE Membership DB,Anna Walker,annaw@ieee.org,725.228.7280,83125315,Senior Member,IEEE Industry Applications Society,Toronto Section,"South Ashley, Ecuador",2026-03-27
+XPL_100183,IEEE Xplore Access,Anna Walker,a.walker@ieee.org,,83125315,,IEEE Communications Society,,"48996 Hernandez Isle, South Ashley",2022-08-24
+SOC_100184,Society Directory,"Walker, Anna",anna.walker@johnson.edu,,83125315,,IEEE Robotics and Automation Society,,"48996 Hernandez Isle, South Ashley, Ecuador",2026-01-17
+CONF_100185,IEEE Conference Registration,Anna Walker,a.walker@outlook.com,725-228-7280,83125315,,IEEE Robotics and Automation Society,,"48996 Hernandez Isle, South Ashley",2025-04-23
+MBR_100186,IEEE Membership DB,Elizabeth D.,elizabeth.udran@ieee.org,211.823.3984,82376603,Member,IEEE Computer Society,Santa Clara Valley Section,"31203 Brooks River Suite 700, Smithhaven, VA",2022-04-24
+XPL_100187,IEEE Xplore Access,Elizabeth Duran,eduran@ieee.org,(211) 823-3984,82376603,,IEEE Computer Society,,"31203 Brooks River Suite 700, Smithhaven, VA",2024-07-15
+SOC_100188,Society Directory,Elizabeth,elizabeth.duran@yahoo.com,211-823-3984,82376603,,IEEE Computer Society,,"31203 Brooks River Suite 700, Smithhaven",2023-02-06
+MBR_100189,IEEE Membership DB,Joseph Sanders,jsanders@ieee.org,(659) 180-3397,97096740,Member,IEEE Communications Society,Bangalore Section,,2024-05-03
+SOC_100190,Society Directory,"Sanders, Joseph",josephs@williams-jones.edu,659.180.3397,97096740,,IEEE Robotics and Automation Society,,,2026-05-31
+MBR_100191,IEEE Membership DB,Sara Lam,sral@ieee.org,218-501-6315,81336367,Graduate Student Member,IEEE Industry Applications Society,Tokyo Section,"50392 Hickman Hills, New John",2022-12-13
+SOC_100192,Society Directory,Sara L.,saral@ieee.org,218-501-6315,81336367,,IEEE Industry Applications Society,,"50392 Hickman Hills, New John, MP",2024-01-27
+SEC_100193,Local Section Roster,Sara Lam,saral@mack.edu,218-501-6315,81336367,Graduate Student Member,IEEE Industry Applications Society,Tokyo Section,"50392 Hickman Hills, New John, MP",2022-07-29
+XPL_100194,IEEE Xplore Access,Sara Lam,saral@ieee.org,+1-218-501-6315,81336367,,IEEE Industry Applications Society,,"50392 Hickman Hills, New John, MP",2024-12-31
+MBR_100195,IEEE Membership DB,Kim J.,kim.johnson@ieee.org,(511) 047-5412,95273902,Senior Member,IEEE Computer Society,Sydney Section,"7358 Reynolds Springs Suite 194, Lake Charles, Ethiopia",2024-05-11
+SEC_100196,Local Section Roster,"Johnson, Kim",k.johnson@gmail.com,,95273902,Senior Member,IEEE Computer Society,Sydney Section,"Lake Charles, Ethiopia",2024-09-13
+MBR_100197,IEEE Membership DB,Jacob,jcole@ieee.org,+1-472-126-4647,82613456,Senior Member,IEEE Computer Society,Munich Section,"01581 Shields Bridge Suite 661, New Adriana, Poland",2026-06-18
+CONF_100198,IEEE Conference Registration,Jacob Cole,jacobc@yahoo.com,+1-472-126-4647,82613456,,IEEE Computer Society,,"01581 Shields Bridge Suite 661, New Adriana",2025-05-30
+MBR_100199,IEEE Membership DB,Michael,mraymond@ieee.org,(375) 265-4793,88225093,Member,IEEE Robotics and Automation Society,Central NJ Section,"937 Derek Avenue Suite 596, Scottchester, GU",2023-10-01
+MBR_100200,IEEE Membership DB,N. Velasquez,nevlasquez@ieee.org,,84777261,Senior Member,IEEE Computer Society,Central NJ Section,"1939 Erin Plaza Apt. 737, Marieland, Svalbard & Jan Mayen Islands",2024-09-27
+SEC_100201,Local Section Roster,"Velasquez, Nicholas",nicholasv@ieee.org,(342) 661-7979,84777261,Senior Member,IEEE Computer Society,Central NJ Section,,2022-03-10
+XPL_100202,IEEE Xplore Access,N. Velasquez,n.velasquez@ieee.org,342.661.7979,84777261,,IEEE Computer Society,,"1939 Erin Plaza Apt. 737, Marieland, Svalbard & Jan Mayen Islands",2023-12-22
+CONF_100203,IEEE Conference Registration,Nicholas Velasquez,n.velsquez@yahoo.com,(342) 661-7979,,,IEEE Computer Society,,"1939 Erin Plaza Apt. 737, Marieland, Svalbard & Jan Mayen Islands",2022-07-09
+MBR_100204,IEEE Membership DB,Molly Barnes,molly.barnes@ieee.org,(014) 388-8993,98458994,Member,IEEE Robotics and Automation Society,Santa Clara Valley Section,"8911 Diane Knoll, Lake Cheyenne",2021-12-13
+MBR_100205,IEEE Membership DB,"Ford, Neil",neil.ford@ieee.org,757.177.5140,80731492,Associate Member,IEEE Communications Society,Sydney Section,"0714 Knapp Corner, Port Sheliaberg",2024-02-12
+CONF_100206,IEEE Conference Registration,Neil Ford,neil.ford@outlook.com,757-177-5140,,,IEEE Communications Society,,"0714 Knapp Corner, Port Sheliaberg, Guernsey",2024-11-07
+SOC_100207,Society Directory,Neil Ford,n.fodr@hotmail.com,757-177-5140,80731492,,IEEE Communications Society,,"Port Sheliaberg, Guernsey",2022-01-19
+MBR_100208,IEEE Membership DB,"Sweeney, Darin",d.sweeney@ieee.org,+1-093-796-6033,98980101,Senior Member,IEEE Communications Society,Bangalore Section,"Mullenbury, AS",2025-12-11
+CONF_100209,IEEE Conference Registration,Darin Sweeney,darins@outlook.com,(093) 796-6033,,,IEEE Robotics and Automation Society,,"Mullenbury, AS",2022-01-13
+MBR_100210,IEEE Membership DB,"Stokes, Karen",karens@ieee.org,(691) 557-9249,99881655,Member,IEEE Antennas and Propagation Society,Toronto Section,"182 Nguyen Mount, West Emilyfort, Marshall Islands",2023-07-22
+XPL_100211,IEEE Xplore Access,Karen Stokes,karen.stokes@ieee.org,691-557-9249,,,IEEE Antennas and Propagation Society,,,2026-05-21
+SEC_100212,Local Section Roster,Karen Stokes,k.stokes@hotmail.com,,99881655,Member,IEEE Antennas and Propagation Society,Toronto Section,,2022-10-17
+MBR_100213,IEEE Membership DB,C. Anderson,canderson@ieee.org,422-579-0507,94658870,Life Member,IEEE Robotics and Automation Society,Toronto Section,"41252 Barnes Dam, Hendersonfort, SC",2022-07-28
+XPL_100214,IEEE Xplore Access,"Anderson, Christopher",c.anderson@ieee.org,422-579-0507,94658870,,IEEE Robotics and Automation Society,,"Hendersonfort, SC",2024-08-25
+SEC_100215,Local Section Roster,Christopher A.,christophera@lee.edu,(422) 579-0507,94658870,Life Member,IEEE Robotics and Automation Society,Toronto Section,"41252 Barnes Dam, Hendersonfort, SC",2022-06-02
+MBR_100216,IEEE Membership DB,Tamara Wagner,tamaraw@ieee.org,914.858.0783,83625039,Senior Member,IEEE Computer Society,Tokyo Section,"New Keith, WI",2022-04-04
+SOC_100217,Society Directory,T. Wagner,tawgner@ieee.org,(914) 858-0783,83625039,,IEEE Computer Society,,"7677 Christopher Burgs Apt. 404, New Keith, WI",2024-05-27
+MBR_100218,IEEE Membership DB,Karen Evans,karene@ieee.org,+1-330-958-4982,83124074,Member,IEEE Signal Processing Society,Sydney Section,"Port Joan, Portugal",2025-12-20
+SOC_100219,Society Directory,Karen Evans,kraen.evans@werner-carter.edu,330.958.4982,83124074,,IEEE Signal Processing Society,,"4517 Kimberly Freeway, Port Joan, Portugal",2025-07-20
+MBR_100220,IEEE Membership DB,A. Farley,ashley.farley@ieee.org,671-168-4577,83875836,Member,IEEE Robotics and Automation Society,Sydney Section,"60422 Dustin Islands, Port Megan",2023-11-25
+MBR_100221,IEEE Membership DB,Melanie Davis,mdavis@ieee.org,(170) 127-7063,87591431,Graduate Student Member,IEEE Signal Processing Society,Central NJ Section,"518 Robinson Meadow Apt. 745, Matthewshire, DC",2024-02-28
+MBR_100222,IEEE Membership DB,Nancy Mcdowell,n.mcdowell@ieee.org,037-129-3870,95932462,Senior Member,IEEE Communications Society,Sydney Section,,2025-10-19
+MBR_100223,IEEE Membership DB,Heather Montoya,h.montoya@ieee.org,+1-092-753-2697,94206104,Member,IEEE Antennas and Propagation Society,Tokyo Section,"271 Patrick Street Apt. 155, Derrickberg, SD",2026-06-09
+SEC_100224,Local Section Roster,Heather M.,h.montoya@ieee.org,(092) 753-2697,94206104,Member,IEEE Antennas and Propagation Society,Tokyo Section,,2025-12-10
+MBR_100225,IEEE Membership DB,Donald Martinez,d.martinez@ieee.org,,93787181,Member,IEEE Antennas and Propagation Society,Sydney Section,"Lake Peter, SD",2023-11-04
+SEC_100226,Local Section Roster,"Martinez, Donald",d.martinez@ieee.org,+1-379-180-5526,93787181,Member,IEEE Antennas and Propagation Society,Sydney Section,"6523 Newman Gateway Suite 043, Lake Peter, SD",2022-08-09
+MBR_100227,IEEE Membership DB,Thomas Archer,tarcher@ieee.org,+1-892-414-1832,94868324,Fellow,IEEE Power & Energy Society,Bangalore Section,"91043 Sandra Turnpike, Hunterhaven, Seychelles",2025-08-13
+MBR_100228,IEEE Membership DB,Debra Day,d.day@ieee.org,+1-588-425-2410,90439558,Senior Member,IEEE Robotics and Automation Society,Boston Section,"West Elizabethburgh, British Indian Ocean Territory (Chagos Archipelago)",2021-11-21
+MBR_100229,IEEE Membership DB,Caleb Joseph,c.joseph@ieee.org,003-075-6220,96949228,Member,IEEE Computer Society,Central NJ Section,"7850 Villarreal Expressway, Ericville, MH",2025-04-22
+XPL_100230,IEEE Xplore Access,"Joseph, Caleb",caleb.joseph@ieee.org,(003) 075-6220,,,IEEE Computer Society,,"7850 Villarreal Expressway, Ericville, MH",2023-11-07
+SOC_100231,Society Directory,"Joseph, Caleb",c.joseph@ieee.org,+1-003-075-6220,96949228,,IEEE Computer Society,,"Ericville, MH",2024-12-18
+SEC_100232,Local Section Roster,Caleb Joseph,calebj@ieee.org,+1-003-075-6220,96949228,Member,IEEE Computer Society,Central NJ Section,"Ericville, MH",2024-04-12
+MBR_100233,IEEE Membership DB,Jeffrey Wright,j.wright@ieee.org,494.937.5973,82142016,Member,IEEE Power & Energy Society,Toronto Section,"Kiaraport, Greece",2022-06-18
+XPL_100234,IEEE Xplore Access,Jeffrey Wright,jeffreyw@ieee.org,494.937.5973,,,IEEE Industry Applications Society,,"Kiaraport, Greece",2025-06-11
+CONF_100235,IEEE Conference Registration,Jeffrey Wright,jwright@outlook.com,+1-494-937-5973,,,IEEE Communications Society,,"1951 Harry Unions Apt. 617, Kiaraport, Greece",2024-11-10
+MBR_100236,IEEE Membership DB,R. Hodges,r.hodges@ieee.org,,91261956,Senior Member,IEEE Computer Society,Toronto Section,"06038 Fields Square, West Aaronfurt",2023-11-10
+SEC_100237,Local Section Roster,"Hodges, Rachel",rhodges@haynes-watson.edu,367-024-1038,91261956,Senior Member,IEEE Communications Society,Toronto Section,"06038 Fields Square, West Aaronfurt, PR",2024-03-18
+XPL_100238,IEEE Xplore Access,Rachel,rachel.hodges@ieee.org,(367) 024-1038,,,IEEE Communications Society,,"06038 Fields Square, West Aaronfurt",2022-12-13
+SOC_100239,Society Directory,Rachel Hodges,rachelh@haynes-watson.edu,367-024-1038,91261956,,IEEE Communications Society,,"06038 Fields Square, West Aaronfurt",2026-01-05
+MBR_100240,IEEE Membership DB,T. Miller,terrim@ieee.org,+1-431-329-1212,90811678,Fellow,IEEE Signal Processing Society,UK and Ireland Section,"261 Ryan Curve, West Jose, MD",2024-11-01
+XPL_100241,IEEE Xplore Access,"Miller, Terri",terrim@ieee.org,431-329-1212,,,IEEE Signal Processing Society,,"261 Ryan Curve, West Jose, MD",2025-06-14
+MBR_100242,IEEE Membership DB,Steven Russell,srussell@ieee.org,(067) 883-1712,87526975,Senior Member,IEEE Communications Society,UK and Ireland Section,"74741 Eric Spur Suite 903, Eddiebury",2025-11-25
+CONF_100243,IEEE Conference Registration,S. Russell,s.russell@gmail.com,067.883.1712,87526975,,IEEE Communications Society,,"74741 Eric Spur Suite 903, Eddiebury, Guinea-Bissau",2025-05-10
+MBR_100244,IEEE Membership DB,"Colon, David",d.colon@ieee.org,029.667.0662,94122102,Senior Member,IEEE Antennas and Propagation Society,Munich Section,"199 Lowery Club Apt. 137, North Rebecca, MP",2025-01-12
+SOC_100245,Society Directory,"Colon, David",davidc@ieee.org,(029) 667-0662,94122102,,IEEE Antennas and Propagation Society,,"199 Lowery Club Apt. 137, North Rebecca",2023-10-24
+MBR_100246,IEEE Membership DB,Joshua S.,j.stephenson@ieee.org,806.578.7598,82986439,Graduate Student Member,IEEE Industry Applications Society,Beijing Section,,2023-11-27
+MBR_100247,IEEE Membership DB,Paul White,p.white@ieee.org,522-395-5905,83349031,Life Member,IEEE Signal Processing Society,Central NJ Section,"304 Lindsey Mountains Suite 932, East Dianeview, Martinique",2025-01-01
+SOC_100248,Society Directory,"White, Paul",paulw@ieee.org,522.395.5905,83349031,,IEEE Industry Applications Society,,"304 Lindsey Mountains Suite 932, East Dianeview",2021-10-27
+SEC_100249,Local Section Roster,Paul White,pwhite@ieee.org,(522) 395-5905,83349031,Life Member,IEEE Industry Applications Society,Central NJ Section,"304 Lindsey Mountains Suite 932, East Dianeview, Martinique",2021-10-09
+MBR_100250,IEEE Membership DB,"Hart, Anne",ahart@ieee.org,+1-500-292-1851,92742321,Fellow,IEEE Signal Processing Society,Central NJ Section,"8427 Christopher Fort, North Alisha, Afghanistan",2022-03-16
+SOC_100251,Society Directory,Anne H.,anneh@ieee.org,(500) 292-1851,92742321,,IEEE Signal Processing Society,,"8427 Christopher Fort, North Alisha",2023-10-22
+MBR_100252,IEEE Membership DB,"Rogers, Brenda",b.rogers@ieee.org,+1-959-391-7251,84988015,Graduate Student Member,IEEE Signal Processing Society,Beijing Section,,2025-04-04
+SOC_100253,Society Directory,B. Rogers,brogers@reed.edu,959.391.7251,84988015,,IEEE Signal Processing Society,,"26752 Walker Radial Apt. 644, East Jessica, UT",2021-09-14
+MBR_100254,IEEE Membership DB,GARY MCCLURE,gary.mcclure@ieee.org,+1-267-658-6179,96689080,Senior Member,IEEE Computer Society,Santa Clara Valley Section,"570 Clark Square, West Jonathanville, VA",2025-04-04
+MBR_100255,IEEE Membership DB,Katherine Perez,katherinep@ieee.org,(201) 533-6884,91139152,Senior Member,IEEE Signal Processing Society,Beijing Section,"04054 Charles Extension Suite 218, West Brookefort, VT",2025-09-20
+CONF_100256,IEEE Conference Registration,KATHERINE PEREZ,k.perez@ieee.org,(201) 533-6884,91139152,,IEEE Signal Processing Society,,,2022-02-15
+SOC_100257,Society Directory,Katherine Perez,k.perez@campbell.edu,(201) 533-6884,91139152,,IEEE Signal Processing Society,,"West Brookefort, VT",2022-10-25
+SEC_100258,Local Section Roster,K. Perez,kerez@campbell.edu,201.533.6884,91139152,Senior Member,IEEE Signal Processing Society,Beijing Section,,2025-07-07
+MBR_100259,IEEE Membership DB,Ashley L.,ashley.larsen@ieee.org,+1-741-862-5652,88329511,Member,IEEE Power & Energy Society,Bangalore Section,,2022-07-11
+SEC_100260,Local Section Roster,A. Larsen,ashleyl@yahoo.com,741.862.5652,88329511,Member,IEEE Antennas and Propagation Society,Bangalore Section,"50614 Gonzalez Burg, East Danielle",2024-03-02
+SOC_100261,Society Directory,A. Larsen,alarsen@yahoo.com,(741) 862-5652,88329511,,IEEE Power & Energy Society,,"50614 Gonzalez Burg, East Danielle, CO",2026-03-11
+XPL_100262,IEEE Xplore Access,Ashley Larsen,ashleyl@ieee.org,(741) 862-5652,88329511,,IEEE Power & Energy Society,,"East Danielle, CO",2026-04-29
+MBR_100263,IEEE Membership DB,Bradley G.,bgonzales@ieee.org,,89651551,Senior Member,IEEE Computer Society,Tokyo Section,"Port Paulhaven, MT",2022-04-10
+CONF_100264,IEEE Conference Registration,B. Gonzales,bradley.gonzales@outlook.com,(416) 089-8992,89651551,,IEEE Computer Society,,"49021 Elizabeth Valley Suite 938, Port Paulhaven, MT",2024-05-23
+SOC_100265,Society Directory,Bradley Gonzales,bradleyg@avery.edu,+1-416-089-8992,89651551,,IEEE Computer Society,,"49021 Elizabeth Valley Suite 938, Port Paulhaven, MT",2025-08-21
+MBR_100266,IEEE Membership DB,Gerald Joyce,gjoyce@ieee.org,+1-685-487-0998,90105078,Senior Member,IEEE Signal Processing Society,Munich Section,"20616 Wendy Road, Port Brooke, MD",2024-08-24
+XPL_100267,IEEE Xplore Access,Gerald Joyce,gerald.joyce@ieee.org,685.487.0998,,,IEEE Computer Society,,,2025-11-12
+CONF_100268,IEEE Conference Registration,G. Joyce,gerald.joyce@ieee.org,685-487-0998,,,IEEE Signal Processing Society,,,2022-01-16
+MBR_100269,IEEE Membership DB,Ashley Aguilar,ashley.aguilar@ieee.org,(960) 653-0745,92581504,Senior Member,IEEE Signal Processing Society,Sydney Section,"Armstrongfort, AZ",2022-12-23
+SEC_100270,Local Section Roster,Ashley A.,a.aguilar@ieee.org,960.653.0745,92581504,Senior Member,IEEE Antennas and Propagation Society,Sydney Section,"Armstrongfort, AZ",2022-08-29
+MBR_100271,IEEE Membership DB,Matthew Leon,mleon@ieee.org,(148) 628-9023,81271253,Member,IEEE Computer Society,Boston Section,"7132 Mccann Mills Suite 469, East Scottchester",2023-01-15
+SEC_100272,Local Section Roster,Matthew Leon,m.leon@hood.edu,+1-148-628-9023,81271253,Member,IEEE Computer Society,Boston Section,"East Scottchester, Saint Vincent and the Grenadines",2026-01-08
+MBR_100273,IEEE Membership DB,A. Williams,a.williams@ieee.org,(140) 602-9333,81034119,Senior Member,IEEE Signal Processing Society,UK and Ireland Section,"345 Wagner Roads Apt. 035, Wheelerburgh, VI",2024-04-18
+XPL_100274,IEEE Xplore Access,Antonio Williams,antoniow@ieee.org,+1-140-602-9333,,,IEEE Communications Society,,"345 Wagner Roads Apt. 035, Wheelerburgh, VI",2025-08-09
+SOC_100275,Society Directory,Antonio Williams,antonio.wiliams@hotmail.com,,81034119,,IEEE Signal Processing Society,,"345 Wagner Roads Apt. 035, Wheelerburgh, VI",2023-12-03
+MBR_100276,IEEE Membership DB,Jamie Pearson,jamiep@ieee.org,743-748-9691,96347397,Associate Member,IEEE Power & Energy Society,Boston Section,"072 Carolyn Branch, West Charlene",2024-09-25
+CONF_100277,IEEE Conference Registration,Jamie,j.pearson@outlook.com,743.748.9691,96347397,,IEEE Power & Energy Society,,"072 Carolyn Branch, West Charlene, Western Sahara",2024-08-24
+SOC_100278,Society Directory,"Pearson, Jamie",jpearson@gmail.com,(743) 748-9691,96347397,,IEEE Power & Energy Society,,"072 Carolyn Branch, West Charlene, Western Sahara",2021-10-15
+MBR_100279,IEEE Membership DB,William Bates,william.bates@ieee.org,+1-520-744-6660,82565651,Senior Member,IEEE Computer Society,Munich Section,"994 Cohen Orchard Apt. 545, Joseport, Comoros",2025-12-31
+XPL_100280,IEEE Xplore Access,William Bates,william.bates@ieee.org,520-744-6660,82565651,,IEEE Computer Society,,"Joseport, Comoros",2023-05-02
+CONF_100281,IEEE Conference Registration,"Bates, William",wbates@outlook.com,520.744.6660,82565651,,IEEE Computer Society,,"994 Cohen Orchard Apt. 545, Joseport, Comoros",2022-10-04
+SOC_100282,Society Directory,William Bates,wbates@erickson.edu,(520) 744-6660,82565651,,IEEE Computer Society,,"994 Cohen Orchard Apt. 545, Joseport, Comoros",2025-12-05
+MBR_100283,IEEE Membership DB,"Walker, Jessica",jessica.walker@ieee.org,+1-534-655-4947,82611792,Senior Member,IEEE Robotics and Automation Society,UK and Ireland Section,"584 Mary Wells Apt. 417, Lake Jonathan, AS",2024-06-23
+SOC_100284,Society Directory,J. Walker,jessica.walker@ieee.org,(534) 655-4947,82611792,,IEEE Robotics and Automation Society,,"584 Mary Wells Apt. 417, Lake Jonathan",2025-04-29
+XPL_100285,IEEE Xplore Access,J. Walker,j.walker@ieee.org,534-655-4947,,,IEEE Communications Society,,"584 Mary Wells Apt. 417, Lake Jonathan, AS",2026-03-12
+MBR_100286,IEEE Membership DB,"Delacruz, Thomas",thomas.delacruz@ieee.org,175-250-0743,80624784,Graduate Student Member,IEEE Antennas and Propagation Society,Bangalore Section,"East Victoria, Guam",2023-12-19
+SOC_100287,Society Directory,T. Delacruz,thomas.delacruz@ieee.org,(175) 250-0743,80624784,,IEEE Signal Processing Society,,"3816 Gutierrez Ways, East Victoria, Guam",2022-09-02
+CONF_100288,IEEE Conference Registration,Thomas Delacruz,t.delacruz@outlook.com,,,,IEEE Antennas and Propagation Society,,"3816 Gutierrez Ways, East Victoria",2022-04-16
+SEC_100289,Local Section Roster,Thomas Delacruz,thomas.delacruz@ieee.org,(175) 250-0743,80624784,Graduate Student Member,IEEE Antennas and Propagation Society,Bangalore Section,"3816 Gutierrez Ways, East Victoria, Guam",2022-11-13
+MBR_100290,IEEE Membership DB,Barbara Moore,barbaram@ieee.org,(033) 542-1689,99331406,Member,IEEE Communications Society,Bangalore Section,"96666 Reyes Camp, Lake Nathan",2026-06-20
+MBR_100291,IEEE Membership DB,Gary Colon,garyc@ieee.org,230-982-1506,86892707,Senior Member,IEEE Power & Energy Society,Tokyo Section,"7898 Hamilton Spur Apt. 575, East Stacy",2023-10-20
+SEC_100292,Local Section Roster,Gary Colon,garyc@ieee.org,230.982.1506,86892707,Senior Member,IEEE Antennas and Propagation Society,Tokyo Section,"East Stacy, PW",2025-11-03
+SOC_100293,Society Directory,Gary C.,gary.coon@hotmail.com,(230) 982-1506,86892707,,IEEE Computer Society,,"7898 Hamilton Spur Apt. 575, East Stacy, PW",2021-12-30
+MBR_100294,IEEE Membership DB,J. Nichols,j.nichols@ieee.org,+1-618-499-2618,92443162,Member,IEEE Computer Society,Tokyo Section,"010 Hannah Mall, Jamesside, El Salvador",2023-08-24
+CONF_100295,IEEE Conference Registration,Jonathan Nichols,jonathan.nichols@outlook.com,(618) 499-2618,92443162,,IEEE Computer Society,,,2024-04-07
+SOC_100296,Society Directory,Jonathan Nichols,jnichols@williamson.edu,(618) 499-2618,92443162,,IEEE Computer Society,,,2022-06-08
+MBR_100297,IEEE Membership DB,T. Lynch,tylerl@ieee.org,+1-181-143-7447,95259180,Graduate Student Member,IEEE Signal Processing Society,Central NJ Section,"356 Martin Plaza Suite 375, North Alexander, CO",2023-04-14
+MBR_100298,IEEE Membership DB,Morgan Phelps,m.phelps@ieee.org,166-746-7621,94856850,Associate Member,IEEE Signal Processing Society,Sydney Section,"Patriciaview, Turkey",2024-09-26
+SOC_100299,Society Directory,Morgan Phelps,m.phelps@horton.edu,+1-166-746-7621,94856850,,IEEE Signal Processing Society,,"561 Melissa Cape Apt. 225, Patriciaview, Turkey",2021-11-26
+SEC_100300,Local Section Roster,Morgan Phelps,mphelps@horton.edu,+1-166-746-7621,94856850,Associate Member,IEEE Signal Processing Society,Sydney Section,"561 Melissa Cape Apt. 225, Patriciaview, Turkey",2025-06-10
+CONF_100301,IEEE Conference Registration,Morgan Phelps,morgan.phelps@outlook.com,,94856850,,IEEE Signal Processing Society,,"561 Melissa Cape Apt. 225, Patriciaview, Turkey",2023-01-15
+MBR_100302,IEEE Membership DB,Tina,trichard@ieee.org,(014) 508-9935,96183036,Member,IEEE Power & Energy Society,Sydney Section,"9797 Cheryl Tunnel, Cherylberg",2023-06-23
+SOC_100303,Society Directory,Tina Richard,trichard@mills.edu,014.508.9935,96183036,,IEEE Power & Energy Society,,,2023-12-05
+CONF_100304,IEEE Conference Registration,Tina Richard,t.richard@gmail.com,(014) 508-9935,,,IEEE Power & Energy Society,,"9797 Cheryl Tunnel, Cherylberg, Liberia",2023-06-07
+MBR_100305,IEEE Membership DB,Dorothy,d.wright@ieee.org,317.797.1775,87064297,Member,IEEE Industry Applications Society,Toronto Section,"628 Alexander Estate Suite 721, Floresmouth, KY",2022-01-08
+XPL_100306,IEEE Xplore Access,Dorothy,dwright@ieee.org,317.797.1775,,,IEEE Industry Applications Society,,"628 Alexander Estate Suite 721, Floresmouth, KY",2023-07-07
+SEC_100307,Local Section Roster,Dorothy W.,dorothyw@ieee.org,,87064297,Member,IEEE Industry Applications Society,Toronto Section,"628 Alexander Estate Suite 721, Floresmouth, KY",2025-08-04
+CONF_100308,IEEE Conference Registration,Dorothy Wright,dwright@yahoo.com,+1-317-797-1775,87064297,,IEEE Industry Applications Society,,"628 Alexander Estate Suite 721, Floresmouth, KY",2021-12-19
+MBR_100309,IEEE Membership DB,Denise Garcia,dgarcia@ieee.org,130-554-8851,89549884,Member,IEEE Robotics and Automation Society,Munich Section,"Port Jeffreymouth, MA",2022-12-20
+MBR_100310,IEEE Membership DB,Donald Love,donaldl@ieee.org,+1-270-808-6978,99180974,Member,IEEE Computer Society,Santa Clara Valley Section,"Lake Maryshire, DE",2023-12-25
+SEC_100311,Local Section Roster,Donald Love,d.love@gmail.com,+1-270-808-6978,99180974,Member,IEEE Computer Society,Santa Clara Valley Section,,2026-01-22
+SOC_100312,Society Directory,Donald Love,d.loe@gmail.com,270.808.6978,99180974,,IEEE Computer Society,,"49331 Lewis Views Apt. 516, Lake Maryshire",2025-01-13
+MBR_100313,IEEE Membership DB,H. Thompson,hthompson@ieee.org,,89535340,Member,IEEE Communications Society,Boston Section,,2025-10-01
+MBR_100314,IEEE Membership DB,Kelly Reed,kreed@ieee.org,081-062-0034,98095488,Member,IEEE Signal Processing Society,Sydney Section,"288 Page Trace, Annashire, Montserrat",2021-12-08
+SEC_100315,Local Section Roster,Kelly R.,kellyr@terrell.edu,081.062.0034,98095488,Member,IEEE Signal Processing Society,Sydney Section,,2026-06-16
+XPL_100316,IEEE Xplore Access,Kelly R.,kelly.reed@ieee.org,081-062-0034,,,IEEE Signal Processing Society,,"288 Page Trace, Annashire",2025-08-04
+SOC_100317,Society Directory,Kelly R.,kreed@terrell.edu,081-062-0034,98095488,,IEEE Signal Processing Society,,"288 Page Trace, Annashire",2023-01-26
+MBR_100318,IEEE Membership DB,John,john.franco@ieee.org,735-989-3347,95192347,Member,IEEE Signal Processing Society,Sydney Section,"South Paulmouth, OH",2025-03-15
+MBR_100319,IEEE Membership DB,Tonya Jones,t.jones@ieee.org,025.909.4798,85056105,Member,IEEE Power & Energy Society,Toronto Section,"816 Roy Point, Davidshire, PR",2021-12-04
+SEC_100320,Local Section Roster,Tonya Jones,t.jones@jones-zimmerman.edu,025.909.4798,85056105,Member,IEEE Communications Society,Toronto Section,"Davidshire, PR",2022-05-16
+XPL_100321,IEEE Xplore Access,Tonya,tjones@ieee.org,025-909-4798,,,IEEE Communications Society,,"816 Roy Point, Davidshire",2024-09-11
+CONF_100322,IEEE Conference Registration,Tonya Jones,t.jones@gmail.com,025-909-4798,85056105,,IEEE Communications Society,,"816 Roy Point, Davidshire, PR",2025-11-15
+MBR_100323,IEEE Membership DB,"Krueger, Alicia",a.krueger@ieee.org,(801) 573-9930,95947437,Senior Member,IEEE Communications Society,Toronto Section,"268 Davis Forges, Lake Martin, Guyana",2023-05-18
+CONF_100324,IEEE Conference Registration,Alicia K.,akrueger@yahoo.com,801.573.9930,95947437,,IEEE Robotics and Automation Society,,"268 Davis Forges, Lake Martin, Guyana",2022-07-18
+SEC_100325,Local Section Roster,Alicia Krueger,akrueger@ieee.org,+1-801-573-9930,95947437,Senior Member,IEEE Communications Society,Toronto Section,"268 Davis Forges, Lake Martin, Guyana",2021-11-05
+XPL_100326,IEEE Xplore Access,A. Krueger,a.krueger@ieee.org,+1-801-573-9930,95947437,,IEEE Communications Society,,"268 Davis Forges, Lake Martin",2023-09-02
+MBR_100327,IEEE Membership DB,Nicole James,n.james@ieee.org,(128) 801-3361,86370961,Senior Member,IEEE Robotics and Automation Society,Munich Section,"4840 Robertson Pass, Tuckerport, MH",2025-12-14
+SEC_100328,Local Section Roster,Nicole James,njames@ieee.org,+1-128-801-3361,86370961,Senior Member,IEEE Robotics and Automation Society,Munich Section,"4840 Robertson Pass, Tuckerport, MH",2022-06-25
+CONF_100329,IEEE Conference Registration,Nicole James,njames@outlook.com,128.801.3361,86370961,,IEEE Robotics and Automation Society,,"4840 Robertson Pass, Tuckerport, MH",2024-03-05
+SOC_100330,Society Directory,NICOLE JAMES,nicolej@ieee.org,+1-128-801-3361,86370961,,IEEE Robotics and Automation Society,,"4840 Robertson Pass, Tuckerport, MH",2023-08-06
+MBR_100331,IEEE Membership DB,Amanda Park,amanda.park@ieee.org,+1-665-061-8091,83540468,Fellow,IEEE Signal Processing Society,Toronto Section,,2024-09-08
+CONF_100332,IEEE Conference Registration,"Park, Amanda",apark@ieee.org,665-061-8091,83540468,,IEEE Signal Processing Society,,"120 Love Camp Apt. 102, Angelashire",2022-05-02
+SOC_100333,Society Directory,Amanda Park,apark@richards.edu,(665) 061-8091,83540468,,IEEE Signal Processing Society,,,2023-08-09
+SEC_100334,Local Section Roster,Amanda Park,a.park@ieee.org,+1-665-061-8091,83540468,Fellow,IEEE Signal Processing Society,Toronto Section,"120 Love Camp Apt. 102, Angelashire, Swaziland",2022-08-22
+MBR_100335,IEEE Membership DB,Sarah R.,sarah.rodriguez@ieee.org,,99533904,Member,IEEE Power & Energy Society,Bangalore Section,"East Julie, WY",2025-12-21
+CONF_100336,IEEE Conference Registration,S. Rodriguez,s.rodriguez@yahoo.com,(088) 210-0996,,,IEEE Power & Energy Society,,"East Julie, WY",2021-12-04
+MBR_100337,IEEE Membership DB,Amy Miller,amym@ieee.org,(141) 413-9755,87607382,Senior Member,IEEE Robotics and Automation Society,Beijing Section,"Jamesburgh, Paraguay",2022-04-15
+CONF_100338,IEEE Conference Registration,A. Miller,amy.miller@gmail.com,141-413-9755,87607382,,IEEE Industry Applications Society,,"536 Eugene Forges, Jamesburgh, Paraguay",2026-03-26
+XPL_100339,IEEE Xplore Access,Amy Miller,a.miller@ieee.org,141-413-9755,87607382,,IEEE Industry Applications Society,,"Jamesburgh, Paraguay",2024-04-16
+SOC_100340,Society Directory,A. Miller,amy.miller@ieee.org,141.413.9755,87607382,,IEEE Computer Society,,"536 Eugene Forges, Jamesburgh, Paraguay",2025-11-16
+MBR_100341,IEEE Membership DB,"Harvey, Craig",c.harvey@ieee.org,452-577-7547,94838108,Senior Member,IEEE Robotics and Automation Society,Central NJ Section,"7759 Steele Drives, Lindseychester, Chile",2026-06-06
+XPL_100342,IEEE Xplore Access,Craig Harvey,craigh@ieee.org,452-577-7547,94838108,,IEEE Robotics and Automation Society,,"Lindseychester, Chile",2022-04-20
+SEC_100343,Local Section Roster,Craig Harvey,craig.harvey@ieee.org,452.577.7547,94838108,Senior Member,IEEE Robotics and Automation Society,Central NJ Section,"7759 Steele Drives, Lindseychester",2026-04-06
+MBR_100344,IEEE Membership DB,Daniel Brewer,daniel.brewer@ieee.org,(887) 256-3942,80279648,Member,IEEE Antennas and Propagation Society,Bangalore Section,,2023-02-28
+CONF_100345,IEEE Conference Registration,Daniel Brewer,daniel.brewer@outlook.com,(887) 256-3942,,,IEEE Antennas and Propagation Society,,"2834 Jessica Brook, Port Bonniefurt, Seychelles",2023-10-05
+SOC_100346,Society Directory,Daniel Brewer,d.brewer@ieee.org,+1-887-256-3942,80279648,,IEEE Signal Processing Society,,"2834 Jessica Brook, Port Bonniefurt, Seychelles",2024-12-17
+MBR_100347,IEEE Membership DB,Michael Smith,msmith@ieee.org,,87569299,Member,IEEE Robotics and Automation Society,Boston Section,"282 Moore Port, Lake Jessica, MI",2025-05-07
+SOC_100348,Society Directory,M. Smith,michael.smith@ieee.org,453-038-5677,87569299,,IEEE Industry Applications Society,,"282 Moore Port, Lake Jessica",2025-09-10
+MBR_100349,IEEE Membership DB,Bill W.,bwong@ieee.org,+1-557-790-8272,90653405,Member,IEEE Signal Processing Society,Santa Clara Valley Section,"844 Nicholas Lane, Brianaland, NC",2025-10-08
+CONF_100350,IEEE Conference Registration,Bill Wong,bill.wong@yahoo.com,(557) 790-8272,,,IEEE Signal Processing Society,,"844 Nicholas Lane, Brianaland, NC",2023-09-10
+MBR_100351,IEEE Membership DB,Juan Hernandez,juanh@ieee.org,299-228-0920,92547995,Member,IEEE Robotics and Automation Society,Sydney Section,"Mendozashire, GA",2024-01-17
+CONF_100352,IEEE Conference Registration,"Hernandez, Juan",juanh@ieee.org,,,,IEEE Robotics and Automation Society,,"9136 Cortez Orchard, Mendozashire",2021-11-19
+MBR_100353,IEEE Membership DB,"White, Jonathan",jwhite@ieee.org,257.991.3662,99190935,Senior Member,IEEE Signal Processing Society,Central NJ Section,"904 Jay Rest Suite 723, Burkeshire",2026-03-26
+MBR_100354,IEEE Membership DB,M. Gordon,mgordon@ieee.org,(376) 599-1624,89770358,Member,IEEE Power & Energy Society,Bangalore Section,"91279 Natalie Place Apt. 172, Port Erikachester, NC",2022-08-09
+MBR_100355,IEEE Membership DB,Christopher George,christopher.george@ieee.org,(463) 688-7258,84540138,Member,IEEE Power & Energy Society,Sydney Section,"East Ronaldshire, KS",2026-01-11
+SOC_100356,Society Directory,Christopher George,christopher.george@webb.edu,463-688-7258,84540138,,IEEE Power & Energy Society,,,2022-10-23
+MBR_100357,IEEE Membership DB,Kim Sanders,kim.snaders@ieee.org,127.961.1435,86001772,Fellow,IEEE Computer Society,Tokyo Section,"137 Craig Pass, Hartmanside",2023-09-28
+SEC_100358,Local Section Roster,Kim Sanders,ksanders@ieee.org,(127) 961-1435,86001772,Fellow,IEEE Computer Society,Tokyo Section,"137 Craig Pass, Hartmanside, RI",2023-01-12
+SOC_100359,Society Directory,K. Sanders,k.sanders@ieee.org,+1-127-961-1435,86001772,,IEEE Antennas and Propagation Society,,"137 Craig Pass, Hartmanside, RI",2023-04-08
+CONF_100360,IEEE Conference Registration,"Sanders, Kim",kims@yahoo.com,127.961.1435,86001772,,IEEE Computer Society,,,2022-10-20
+MBR_100361,IEEE Membership DB,Patrick Joyce,patrick.joyce@ieee.org,(465) 669-3801,92715094,Life Member,IEEE Signal Processing Society,Tokyo Section,"902 Gonzales Flats Suite 309, New Gavin",2026-01-06
+XPL_100362,IEEE Xplore Access,Patrick Joyce,pjoyce@ieee.org,+1-465-669-3801,,,IEEE Industry Applications Society,,,2022-06-02
+CONF_100363,IEEE Conference Registration,P. Joyce,patrick.joyce@ieee.org,+1-465-669-3801,92715094,,IEEE Industry Applications Society,,,2023-01-01
+SOC_100364,Society Directory,Patrick J.,pjoyce@ieee.org,465-669-3801,92715094,,IEEE Industry Applications Society,,"902 Gonzales Flats Suite 309, New Gavin, Argentina",2024-12-05
+MBR_100365,IEEE Membership DB,Andrea Barber,andreab@ieee.org,(769) 735-7790,80977017,Graduate Student Member,IEEE Communications Society,Toronto Section,"4393 Spears Ports Apt. 426, New Charlesport, Guam",2022-06-11
+SOC_100366,Society Directory,A. Barber,andrea.barber@ieee.org,+1-769-735-7790,80977017,,IEEE Communications Society,,"4393 Spears Ports Apt. 426, New Charlesport, Guam",2021-10-17
+CONF_100367,IEEE Conference Registration,Andrea Barber,andrea.barber@ieee.org,(769) 735-7790,,,IEEE Communications Society,,"4393 Spears Ports Apt. 426, New Charlesport, Guam",2024-09-28
+SEC_100368,Local Section Roster,Andrea B.,abraber@ieee.org,+1-769-735-7790,80977017,Graduate Student Member,IEEE Communications Society,Toronto Section,"4393 Spears Ports Apt. 426, New Charlesport, Guam",2025-11-17
+MBR_100369,IEEE Membership DB,Cynthia G.,cgamble@ieee.org,(755) 394-2373,97570038,Member,IEEE Power & Energy Society,Boston Section,"6588 Jaclyn Greens, West Christopher, Peru",2021-10-02
+XPL_100370,IEEE Xplore Access,C. Gamble,cynthiag@ieee.org,+1-755-394-2373,,,IEEE Power & Energy Society,,"6588 Jaclyn Greens, West Christopher, Peru",2025-05-01
+MBR_100371,IEEE Membership DB,Jill Salas,jill.salas@ieee.org,+1-794-728-4639,97860212,Member,IEEE Robotics and Automation Society,Santa Clara Valley Section,"33952 David Common, Austinside, AZ",2024-12-01
+MBR_100372,IEEE Membership DB,Brian Lloyd,bl.loyd@ieee.org,559.428.4347,88214966,Member,IEEE Power & Energy Society,Beijing Section,"Stewarttown, American Samoa",2021-12-03
+MBR_100373,IEEE Membership DB,R. Goodwin,rgoodwin@ieee.org,+1-672-885-7448,97900783,Member,IEEE Industry Applications Society,Sydney Section,,2022-08-02
+CONF_100374,IEEE Conference Registration,"Goodwin, Robert",robertg@yahoo.com,672.885.7448,97900783,,IEEE Industry Applications Society,,"4729 Tiffany Spur Apt. 143, Chaseborough, FL",2024-12-03
+XPL_100375,IEEE Xplore Access,Robert G.,r.goodwin@ieee.org,(672) 885-7448,,,IEEE Industry Applications Society,,"4729 Tiffany Spur Apt. 143, Chaseborough, FL",2023-07-09
+SEC_100376,Local Section Roster,Robert Goodwin,robert.goodwin@ieee.org,672.885.7448,97900783,Member,IEEE Industry Applications Society,Sydney Section,"4729 Tiffany Spur Apt. 143, Chaseborough, FL",2021-12-11
+MBR_100377,IEEE Membership DB,BRANDON GARCIA,brandong@ieee.org,(245) 587-7169,99266561,Graduate Student Member,IEEE Computer Society,Beijing Section,"Mauricechester, DE",2021-11-28
+MBR_100378,IEEE Membership DB,Steven F.,sfrye@ieee.org,475.987.6220,90985997,Senior Member,IEEE Antennas and Propagation Society,Central NJ Section,"569 Sweeney Cliffs, East Matthewmouth, MD",2024-09-24
+MBR_100379,IEEE Membership DB,Johnathan Manning,johnathan.manning@ieee.org,(334) 722-8200,99135300,Life Member,IEEE Antennas and Propagation Society,Bangalore Section,"26111 Kelley Burg, Warrenland, Bosnia and Herzegovina",2024-06-29
+CONF_100380,IEEE Conference Registration,Johnathan Manning,j.manning@yahoo.com,334.722.8200,,,IEEE Antennas and Propagation Society,,"Warrenland, Bosnia and Herzegovina",2024-01-25
+SEC_100381,Local Section Roster,Johnathan Manning,jmanning@kelly.edu,+1-334-722-8200,99135300,Life Member,IEEE Antennas and Propagation Society,Bangalore Section,"26111 Kelley Burg, Warrenland, Bosnia and Herzegovina",2022-10-01
+MBR_100382,IEEE Membership DB,Tanner Pitts,tpitts@ieee.org,424.008.2547,94654398,Associate Member,IEEE Communications Society,Santa Clara Valley Section,"Timothybury, AS",2021-10-04
+SOC_100383,Society Directory,Tanner P.,tpitts@smith.edu,(424) 008-2547,94654398,,IEEE Communications Society,,,2022-07-22
+SEC_100384,Local Section Roster,Tanner Pitts,t.pitts@ieee.org,+1-424-008-2547,94654398,Associate Member,IEEE Communications Society,Santa Clara Valley Section,"728 Brittany Motorway Suite 884, Timothybury",2023-02-01
+CONF_100385,IEEE Conference Registration,Tanner Pitts,t.pitts@ieee.org,+1-424-008-2547,,,IEEE Communications Society,,"Timothybury, AS",2026-06-12
+MBR_100386,IEEE Membership DB,T. Smith,t.smith@ieee.org,(448) 463-1224,90202924,Senior Member,IEEE Signal Processing Society,Bangalore Section,"9308 Lopez Points Suite 632, Claytonbury, KS",2025-10-06
+CONF_100387,IEEE Conference Registration,T. Smith,tomass@yahoo.com,,,,IEEE Signal Processing Society,,"Claytonbury, KS",2025-07-10
+MBR_100388,IEEE Membership DB,"Graves, Shawn",sgraves@ieee.org,570-512-0461,86066949,Life Member,IEEE Industry Applications Society,Central NJ Section,"50208 Jacob Cove Suite 427, East Christophertown, NM",2024-07-28
+XPL_100389,IEEE Xplore Access,Shawn Graves,s.grvaes@ieee.org,570-512-0461,,,IEEE Industry Applications Society,,"50208 Jacob Cove Suite 427, East Christophertown, NM",2025-09-10
+MBR_100390,IEEE Membership DB,"Lee, Theodore",theodorel@ieee.org,+1-147-435-0313,95059921,Member,IEEE Power & Energy Society,Munich Section,"South Paul, Georgia",2022-03-04
+SOC_100391,Society Directory,T. Lee,theodore.lee@ieee.org,147-435-0313,95059921,,IEEE Power & Energy Society,,"0136 Wright Bypass Apt. 718, South Paul, Georgia",2026-06-17
+SEC_100392,Local Section Roster,"Lee, Theodore",tee@hotmail.com,+1-147-435-0313,95059921,Member,IEEE Power & Energy Society,Munich Section,"0136 Wright Bypass Apt. 718, South Paul, Georgia",2023-01-13
+MBR_100393,IEEE Membership DB,R. Smith,ryans@ieee.org,,84025763,Member,IEEE Power & Energy Society,Boston Section,"East Ericland, TX",2022-03-12
+CONF_100394,IEEE Conference Registration,Ryan Smith,ryans@yahoo.com,(281) 273-5857,84025763,,IEEE Signal Processing Society,,"163 Tanya Prairie Suite 925, East Ericland, TX",2021-12-13
+MBR_100395,IEEE Membership DB,"Roach, Dennis",droach@ieee.org,086.209.5935,86733338,Senior Member,IEEE Communications Society,Sydney Section,"784 Lopez Ferry Suite 574, North Amanda, NV",2022-11-05
+XPL_100396,IEEE Xplore Access,D. Roach,droach@ieee.org,086.209.5935,,,IEEE Robotics and Automation Society,,"784 Lopez Ferry Suite 574, North Amanda",2023-10-29
+SEC_100397,Local Section Roster,Dennis Roach,dennis.raoch@brown.edu,+1-086-209-5935,86733338,Senior Member,IEEE Communications Society,Sydney Section,"784 Lopez Ferry Suite 574, North Amanda, NV",2026-03-13
+CONF_100398,IEEE Conference Registration,D. Roach,dennisr@gmail.com,,86733338,,IEEE Communications Society,,"784 Lopez Ferry Suite 574, North Amanda, NV",2022-11-16
+MBR_100399,IEEE Membership DB,James Vega,jvega@ieee.org,310.967.8994,94696295,Senior Member,IEEE Communications Society,Central NJ Section,,2024-08-09
+SOC_100400,Society Directory,James Vega,jvea@ieee.org,310-967-8994,94696295,,IEEE Communications Society,,"North Maryberg, HI",2026-02-07
+MBR_100401,IEEE Membership DB,Jennifer Smith,jennifers@ieee.org,413-811-3863,80639648,Senior Member,IEEE Signal Processing Society,Central NJ Section,"717 Michael Summit, Shortton, GU",2021-12-03
+MBR_100402,IEEE Membership DB,Ashley Meza,ashleym@ieee.org,(556) 659-3983,83831234,Senior Member,IEEE Industry Applications Society,Beijing Section,"195 Park Meadow Apt. 228, Wagnerburgh",2025-10-30
+SEC_100403,Local Section Roster,Ashley Meza,ashley.meza@ieee.org,556.659.3983,83831234,Senior Member,IEEE Industry Applications Society,Beijing Section,"195 Park Meadow Apt. 228, Wagnerburgh, ND",2025-10-04
+SOC_100404,Society Directory,Ashley Meza,ashley.mzea@cannon-howe.edu,(556) 659-3983,83831234,,IEEE Industry Applications Society,,"Wagnerburgh, ND",2024-11-30
+XPL_100405,IEEE Xplore Access,Ashley Meza,ashley.meza@ieee.org,556.659.3983,,,IEEE Industry Applications Society,,"195 Park Meadow Apt. 228, Wagnerburgh",2026-04-18
+MBR_100406,IEEE Membership DB,Jonathan N.,jnathann@ieee.org,522.459.3344,97790526,Associate Member,IEEE Signal Processing Society,Toronto Section,"0049 Zachary Hollow Apt. 433, Andrewview",2026-04-07
+SOC_100407,Society Directory,Jonathan Nixon,jonathann@duncan.edu,522.459.3344,97790526,,IEEE Signal Processing Society,,"0049 Zachary Hollow Apt. 433, Andrewview, Uruguay",2023-06-30
+MBR_100408,IEEE Membership DB,Samantha Navarro,samanthan@ieee.org,604.805.8925,83894498,Member,IEEE Communications Society,Sydney Section,"2791 Johnson Valley Suite 105, Nicholechester, MT",2025-04-09
+SEC_100409,Local Section Roster,Samantha Navarro,s.navarro@ieee.org,604.805.8925,83894498,Member,IEEE Communications Society,Sydney Section,"2791 Johnson Valley Suite 105, Nicholechester, MT",2023-12-10
+MBR_100410,IEEE Membership DB,"Hernandez, Heidi",hhernandez@ieee.org,+1-622-783-7693,89049446,Member,IEEE Communications Society,Central NJ Section,"South Ashleyton, Mexico",2022-12-06
+CONF_100411,IEEE Conference Registration,Heidi,heidi.heranndez@outlook.com,,,,IEEE Communications Society,,"9981 Ryan Turnpike Suite 225, South Ashleyton",2022-05-31
+MBR_100412,IEEE Membership DB,Christina F.,cfitzgerald@ieee.org,(979) 270-3352,94570969,Senior Member,IEEE Signal Processing Society,Boston Section,"14659 Daniel Loop, Diazborough",2023-05-18
+CONF_100413,IEEE Conference Registration,Christina F.,christina.fitzgerald@ieee.org,(979) 270-3352,,,IEEE Signal Processing Society,,"14659 Daniel Loop, Diazborough, Gibraltar",2023-12-07
+SOC_100414,Society Directory,"Fitzgerald, Christina",cfitzgerald@ieee.org,979.270.3352,94570969,,IEEE Antennas and Propagation Society,,"14659 Daniel Loop, Diazborough, Gibraltar",2023-11-27
+XPL_100415,IEEE Xplore Access,Christina F.,c.fitzgerald@ieee.org,(979) 270-3352,,,IEEE Signal Processing Society,,"14659 Daniel Loop, Diazborough, Gibraltar",2023-01-27
+MBR_100416,IEEE Membership DB,S. Mcintosh,stacy.mcintosh@ieee.org,(042) 043-9407,81730153,Member,IEEE Power & Energy Society,Sydney Section,"Anaberg, Puerto Rico",2022-04-16
+CONF_100417,IEEE Conference Registration,S. Mcintosh,stacy.mcintosh@outlook.com,,81730153,,IEEE Power & Energy Society,,"51477 Martin Streets Apt. 388, Anaberg",2024-06-01
+MBR_100418,IEEE Membership DB,"Jones, Sierra",s.ojnes@ieee.org,,84117445,Senior Member,IEEE Signal Processing Society,Munich Section,"510 Dillon Run Suite 368, West Toddside, Benin",2022-08-07
+CONF_100419,IEEE Conference Registration,Sierra Jones,sierra.jones@outlook.com,+1-003-845-7620,,,IEEE Robotics and Automation Society,,"510 Dillon Run Suite 368, West Toddside",2024-07-24
+SOC_100420,Society Directory,Sierra Jones,sierraj@ieee.org,003-845-7620,84117445,,IEEE Signal Processing Society,,"510 Dillon Run Suite 368, West Toddside, Benin",2024-08-16
+MBR_100421,IEEE Membership DB,Kevin Ferrell,kevinf@ieee.org,+1-823-298-3248,97789426,Graduate Student Member,IEEE Signal Processing Society,Sydney Section,"46084 Edward Lock Apt. 168, South John, FL",2025-08-09
+XPL_100422,IEEE Xplore Access,Kevin F.,kevin.ferrell@ieee.org,823-298-3248,97789426,,IEEE Signal Processing Society,,"46084 Edward Lock Apt. 168, South John, FL",2025-10-18
+SOC_100423,Society Directory,Kevin Ferrell,kevin.ferrell@gmail.com,+1-823-298-3248,97789426,,IEEE Robotics and Automation Society,,,2023-12-29
+MBR_100424,IEEE Membership DB,"Stout, Russell",rstout@ieee.org,742.312.2099,84878273,Graduate Student Member,IEEE Power & Energy Society,Boston Section,,2023-06-02
+SEC_100425,Local Section Roster,Russell Stout,rstout@obrien-salazar.edu,+1-742-312-2099,84878273,Graduate Student Member,IEEE Power & Energy Society,Boston Section,"925 Angela Stravenue, East Lonnieberg, VA",2022-11-29
+XPL_100426,IEEE Xplore Access,Russell Stout,russells@ieee.org,742.312.2099,,,IEEE Robotics and Automation Society,,"East Lonnieberg, VA",2025-06-01
+MBR_100427,IEEE Membership DB,Caitlyn,caitlyn.hall@ieee.org,604.633.3127,84964241,Senior Member,IEEE Robotics and Automation Society,Toronto Section,"1728 Joseph Landing, Port Paul, NJ",2021-12-27
+SEC_100428,Local Section Roster,Caitlyn H.,chall@ieee.org,(604) 633-3127,84964241,Senior Member,IEEE Robotics and Automation Society,Toronto Section,"1728 Joseph Landing, Port Paul, NJ",2023-07-25
+XPL_100429,IEEE Xplore Access,Caitlyn,chll@ieee.org,604-633-3127,,,IEEE Robotics and Automation Society,,"1728 Joseph Landing, Port Paul",2025-09-27
+MBR_100430,IEEE Membership DB,Tracy Nguyen,t.nguyen@ieee.org,,99636330,Member,IEEE Signal Processing Society,Sydney Section,"66096 Long Summit Apt. 817, Wilcoxton",2022-08-26
+SEC_100431,Local Section Roster,T. Nguyen,t.nguyen@phillips-ellison.edu,(803) 476-4472,99636330,Member,IEEE Signal Processing Society,Sydney Section,"66096 Long Summit Apt. 817, Wilcoxton",2023-10-24
+MBR_100432,IEEE Membership DB,"Mckee, Hannah",h.mckee@ieee.org,521-117-5186,95973275,Associate Member,IEEE Industry Applications Society,Santa Clara Valley Section,"718 Hector Prairie Apt. 665, Johnsonmouth, OR",2024-06-25
+MBR_100433,IEEE Membership DB,Nicholas J.,nicholasj@ieee.org,+1-094-077-7809,91944851,Member,IEEE Power & Energy Society,Munich Section,"9222 Kayla Center, Parkermouth, France",2024-06-22
+XPL_100434,IEEE Xplore Access,Nicholas James,nicholas.ajmes@ieee.org,094.077.7809,,,IEEE Power & Energy Society,,"9222 Kayla Center, Parkermouth, France",2025-08-22
+MBR_100435,IEEE Membership DB,John Chapman,j.chapman@ieee.org,,98745358,Senior Member,IEEE Industry Applications Society,Munich Section,"6719 John Plaza Suite 983, East Eddiestad",2024-06-22
+MBR_100436,IEEE Membership DB,BETH HUYNH,beth.huynh@ieee.org,833-901-9817,94828975,Graduate Student Member,IEEE Signal Processing Society,Munich Section,"5561 Bridges Circles, Thomasville, Puerto Rico",2026-01-25
+CONF_100437,IEEE Conference Registration,Beth Huynh,b.hunh@gmail.com,(833) 901-9817,,,IEEE Signal Processing Society,,"5561 Bridges Circles, Thomasville, Puerto Rico",2023-11-17
+SEC_100438,Local Section Roster,Beth Huynh,bhuynh@ieee.org,833-901-9817,94828975,Graduate Student Member,IEEE Signal Processing Society,Munich Section,"5561 Bridges Circles, Thomasville",2022-09-30
+MBR_100439,IEEE Membership DB,HALEY PECK,haley.peck@ieee.org,,85387410,Graduate Student Member,IEEE Industry Applications Society,Beijing Section,"9548 Ho Ridges Suite 877, New Jesse, LA",2026-06-26
+MBR_100440,IEEE Membership DB,Juan,juan.tyler@ieee.org,+1-727-857-6084,83311343,Graduate Student Member,IEEE Signal Processing Society,Sydney Section,"8850 Gina Junctions Suite 990, East Mark, MA",2025-09-29
+CONF_100441,IEEE Conference Registration,Juan Tyler,juant@yahoo.com,+1-727-857-6084,83311343,,IEEE Signal Processing Society,,"8850 Gina Junctions Suite 990, East Mark",2022-05-19
+SOC_100442,Society Directory,Juan Tyler,juan.tyler@hardy.edu,727.857.6084,83311343,,IEEE Signal Processing Society,,"8850 Gina Junctions Suite 990, East Mark, MA",2021-10-16
+XPL_100443,IEEE Xplore Access,JUAN TYLER,juan.tylr@ieee.org,(727) 857-6084,83311343,,IEEE Signal Processing Society,,"8850 Gina Junctions Suite 990, East Mark, MA",2025-12-08
+MBR_100444,IEEE Membership DB,Jared,jared.jennings@ieee.org,+1-438-421-5031,89345524,Fellow,IEEE Industry Applications Society,Beijing Section,"24056 Ashley Loaf Apt. 914, Jenniferview",2025-10-02
+SEC_100445,Local Section Roster,Jared Jennings,j.jennings@hunter-lloyd.edu,438-421-5031,89345524,Fellow,IEEE Industry Applications Society,Beijing Section,"24056 Ashley Loaf Apt. 914, Jenniferview, MT",2025-08-26
+XPL_100446,IEEE Xplore Access,Jared Jennings,j.jennings@ieee.org,438.421.5031,89345524,,IEEE Industry Applications Society,,"Jenniferview, MT",2023-10-04
+SOC_100447,Society Directory,Jared Jennings,j.jennings@hunter-lloyd.edu,438.421.5031,89345524,,IEEE Industry Applications Society,,"24056 Ashley Loaf Apt. 914, Jenniferview, MT",2023-12-26
+MBR_100448,IEEE Membership DB,Rebecca Moore,rebeccam@ieee.org,,90484406,Senior Member,IEEE Robotics and Automation Society,Santa Clara Valley Section,"Reeveshaven, DE",2024-11-29
+SOC_100449,Society Directory,Rebecca Moore,r.moore@ieee.org,(570) 184-0943,90484406,,IEEE Robotics and Automation Society,,"Reeveshaven, DE",2024-05-16
+SEC_100450,Local Section Roster,Rebecca Moore,rebeccam@ieee.org,570-184-0943,90484406,Senior Member,IEEE Robotics and Automation Society,Santa Clara Valley Section,"8452 Lynn Path Apt. 307, Reeveshaven, DE",2023-03-09
+CONF_100451,IEEE Conference Registration,Rebecca Moore,reebccam@gmail.com,570.184.0943,90484406,,IEEE Robotics and Automation Society,,"Reeveshaven, DE",2024-02-23
+MBR_100452,IEEE Membership DB,"Mejia, Amanda",amandam@ieee.org,214.958.7020,86909136,Member,IEEE Signal Processing Society,Toronto Section,"2241 Susan Points, East Amyside, MD",2025-12-28
+XPL_100453,IEEE Xplore Access,Amanda M.,amandam@ieee.org,214.958.7020,86909136,,IEEE Signal Processing Society,,"2241 Susan Points, East Amyside",2021-11-20
+SOC_100454,Society Directory,Amanda Mejia,amejia@yahoo.com,214.958.7020,86909136,,IEEE Signal Processing Society,,"2241 Susan Points, East Amyside",2023-12-19
+CONF_100455,IEEE Conference Registration,A. Mejia,a.mejia@outlook.com,214-958-7020,86909136,,IEEE Antennas and Propagation Society,,"2241 Susan Points, East Amyside",2023-11-20
+MBR_100456,IEEE Membership DB,R. Williams,rebeccaw@ieee.org,+1-773-329-4562,84957455,Member,IEEE Antennas and Propagation Society,Bangalore Section,"Bradleyland, Suriname",2025-03-03
+MBR_100457,IEEE Membership DB,Mark Freeman,mark.reeman@ieee.org,(487) 696-3938,85031898,Member,IEEE Communications Society,Bangalore Section,,2026-05-25
+SOC_100458,Society Directory,Mark Freeman,markf@ieee.org,,85031898,,IEEE Communications Society,,,2024-06-20
+SEC_100459,Local Section Roster,M. Freeman,mfreeman@dickson.edu,487-696-3938,85031898,Member,IEEE Communications Society,Bangalore Section,"1577 Justin Keys, New Dakota, GU",2023-09-14
+CONF_100460,IEEE Conference Registration,"Freeman, Mark",mfreeman@yahoo.com,(487) 696-3938,85031898,,IEEE Communications Society,,"New Dakota, GU",2022-05-17
+MBR_100461,IEEE Membership DB,"Clark, Carl",carlc@ieee.org,+1-919-657-0132,96453703,Senior Member,IEEE Signal Processing Society,Santa Clara Valley Section,"9583 Elaine Club Suite 199, Nguyenville, GU",2026-04-24
+SEC_100462,Local Section Roster,"Clark, Carl",carl.clark@berger.edu,+1-919-657-0132,96453703,Senior Member,IEEE Antennas and Propagation Society,Santa Clara Valley Section,,2023-07-05
+MBR_100463,IEEE Membership DB,Dwayne Hernandez,dhernandez@ieee.org,,93186071,Graduate Student Member,IEEE Power & Energy Society,Bangalore Section,"Veronicashire, AL",2026-04-26
+SEC_100464,Local Section Roster,Dwayne Hernandez,dhernandez@park-long.edu,+1-580-085-1403,93186071,Graduate Student Member,IEEE Industry Applications Society,Bangalore Section,"Veronicashire, AL",2025-12-11
+MBR_100465,IEEE Membership DB,Louis R.,lreyes@ieee.org,126.796.9278,82226914,Member,IEEE Signal Processing Society,Munich Section,"8327 Jacob Lights Suite 624, East Alexander, Oman",2023-04-12
+MBR_100466,IEEE Membership DB,"Lopez, Michael",michaell@ieee.org,+1-128-478-1891,83718777,Member,IEEE Signal Processing Society,Boston Section,"Arthurton, Montenegro",2024-03-08
+SOC_100467,Society Directory,Michael Lopez,mlopez@kennedy.edu,,83718777,,IEEE Signal Processing Society,,"738 Jenkins Plains, Arthurton, Montenegro",2022-11-17
+XPL_100468,IEEE Xplore Access,M. Lopez,m.lopez@ieee.org,128-478-1891,,,IEEE Signal Processing Society,,"738 Jenkins Plains, Arthurton, Montenegro",2025-09-02
+MBR_100469,IEEE Membership DB,Elizabeth Barnett,ebarnett@ieee.org,+1-407-929-0490,95223909,Life Member,IEEE Robotics and Automation Society,Santa Clara Valley Section,"Susanport, LA",2025-06-30
+SEC_100470,Local Section Roster,Elizabeth Barnett,e.barnett@yahoo.com,407.929.0490,95223909,Life Member,IEEE Robotics and Automation Society,Santa Clara Valley Section,,2022-09-02
+SOC_100471,Society Directory,E. Barnett,e.barnett@ieee.org,,95223909,,IEEE Robotics and Automation Society,,,2025-04-26
+MBR_100472,IEEE Membership DB,Todd Martinez,toddm@ieee.org,372-805-1292,81748609,Member,IEEE Communications Society,Sydney Section,,2023-04-03
+MBR_100473,IEEE Membership DB,Patrick Guerrero,p.guerrero@ieee.org,+1-860-476-5801,88733938,Member,IEEE Power & Energy Society,Toronto Section,"Turnerside, Djibouti",2025-01-11
+SOC_100474,Society Directory,P. Guerrero,patrickg@hotmail.com,860.476.5801,88733938,,IEEE Robotics and Automation Society,,"Turnerside, Djibouti",2021-09-21
+CONF_100475,IEEE Conference Registration,"Guerrero, Patrick",p.guerrero@ieee.org,860-476-5801,88733938,,IEEE Robotics and Automation Society,,"95041 Gary Locks, Turnerside, Djibouti",2024-01-23
+MBR_100476,IEEE Membership DB,Dana B.,dana.blanchard@ieee.org,,96280594,Senior Member,IEEE Computer Society,Boston Section,"454 Lang Glens Suite 739, New Matthew",2024-03-04
+XPL_100477,IEEE Xplore Access,"Blanchard, Dana",dblanchard@ieee.org,,,,IEEE Computer Society,,"454 Lang Glens Suite 739, New Matthew, UT",2024-04-18
+CONF_100478,IEEE Conference Registration,Dana Blanchard,danab@gmail.com,106.181.7534,,,IEEE Computer Society,,"454 Lang Glens Suite 739, New Matthew",2026-06-23
+MBR_100479,IEEE Membership DB,James J.,j.johnson@ieee.org,717.465.4214,99097788,Member,IEEE Communications Society,Central NJ Section,"93911 Melissa Curve, Douglasshire, Spain",2024-04-30
+MBR_100480,IEEE Membership DB,Patrick Cook,patrickc@ieee.org,741.011.9470,93502177,Member,IEEE Industry Applications Society,Boston Section,"4271 Krause Flats, Whitefort",2024-02-19
+SEC_100481,Local Section Roster,Patrick Cook,patrickc@ieee.org,741.011.9470,93502177,Member,IEEE Industry Applications Society,Boston Section,"4271 Krause Flats, Whitefort, CT",2023-11-28
+SOC_100482,Society Directory,P. Cook,pcook@ieee.org,(741) 011-9470,93502177,,IEEE Industry Applications Society,,"4271 Krause Flats, Whitefort, CT",2022-01-05
+CONF_100483,IEEE Conference Registration,Patrick Cook,patrick.cook@outlook.com,741-011-9470,93502177,,IEEE Industry Applications Society,,"4271 Krause Flats, Whitefort",2026-01-29
+MBR_100484,IEEE Membership DB,"Ortega, Sarah",saraho@ieee.org,015.851.7432,80545886,Member,IEEE Antennas and Propagation Society,Sydney Section,"Finleyfort, DE",2021-12-19
+CONF_100485,IEEE Conference Registration,Sarah Ortega,s.ortega@outlook.com,(015) 851-7432,80545886,,IEEE Antennas and Propagation Society,,"56908 Mendoza Lodge Apt. 830, Finleyfort",2026-06-07
+SOC_100486,Society Directory,Sarah Ortega,sortega@hotmail.com,,80545886,,IEEE Antennas and Propagation Society,,,2023-10-12
+XPL_100487,IEEE Xplore Access,Sarah Ortega,sortega@ieee.org,015-851-7432,80545886,,IEEE Antennas and Propagation Society,,"56908 Mendoza Lodge Apt. 830, Finleyfort, DE",2025-06-14
+MBR_100488,IEEE Membership DB,"Cruz, Benjamin",benjamin.cruz@ieee.org,847.870.0505,95904434,Member,IEEE Computer Society,Boston Section,"6157 Nicole Mill, East Austin, Anguilla",2022-12-21
+SOC_100489,Society Directory,"Cruz, Benjamin",bcruz@williams.edu,+1-847-870-0505,95904434,,IEEE Computer Society,,"6157 Nicole Mill, East Austin, Anguilla",2023-08-18
+XPL_100490,IEEE Xplore Access,B. Cruz,benjamin.cruz@ieee.org,847.870.0505,,,IEEE Computer Society,,"6157 Nicole Mill, East Austin",2022-11-15
+CONF_100491,IEEE Conference Registration,Benjamin Cruz,b.cruz@ieee.org,,,,IEEE Computer Society,,"6157 Nicole Mill, East Austin, Anguilla",2024-11-22
+MBR_100492,IEEE Membership DB,E. Ellis,e.ellis@ieee.org,417-929-1117,89844670,Senior Member,IEEE Robotics and Automation Society,Tokyo Section,"931 Jill Overpass, South Rebeccaton, Ecuador",2022-01-21
+SOC_100493,Society Directory,Elizabeth Ellis,elizabethe@lloyd.edu,(417) 929-1117,89844670,,IEEE Robotics and Automation Society,,"931 Jill Overpass, South Rebeccaton, Ecuador",2022-09-17
+CONF_100494,IEEE Conference Registration,Elizabeth Ellis,e.ellis@gmail.com,417-929-1117,89844670,,IEEE Robotics and Automation Society,,"931 Jill Overpass, South Rebeccaton, Ecuador",2024-08-07
+MBR_100495,IEEE Membership DB,RONALD CAIN,r.cain@ieee.org,273-902-1962,97293532,Senior Member,IEEE Computer Society,Central NJ Section,,2024-11-13
+CONF_100496,IEEE Conference Registration,Ronald C.,r.cain@ieee.org,273-902-1962,97293532,,IEEE Industry Applications Society,,"1982 Copeland Underpass Apt. 092, Bryanview, Cambodia",2022-03-13
+SOC_100497,Society Directory,Ronald Cain,ronaldc@hobbs.edu,+1-273-902-1962,97293532,,IEEE Computer Society,,"1982 Copeland Underpass Apt. 092, Bryanview, Cambodia",2024-06-26
+SEC_100498,Local Section Roster,R. Cain,ronald.cain@hobbs.edu,273-902-1962,97293532,Senior Member,IEEE Computer Society,Central NJ Section,"1982 Copeland Underpass Apt. 092, Bryanview, Cambodia",2024-03-18
+MBR_100499,IEEE Membership DB,A. White,a.white@ieee.org,,82844684,Member,IEEE Power & Energy Society,Boston Section,"Lake Joseph, NV",2024-02-27
+MBR_100500,IEEE Membership DB,James Downs,jdowns@ieee.org,,98576083,Graduate Student Member,IEEE Antennas and Propagation Society,Toronto Section,"West Brian, Bouvet Island (Bouvetoya)",2025-05-26
+XPL_100501,IEEE Xplore Access,"Downs, James",j.downs@ieee.org,200-543-6459,,,IEEE Antennas and Propagation Society,,"588 Steven Road, West Brian",2023-08-22
+SEC_100502,Local Section Roster,J. Downs,james.dows@ieee.org,+1-200-543-6459,98576083,Graduate Student Member,IEEE Computer Society,Toronto Section,"West Brian, Bouvet Island (Bouvetoya)",2022-05-27
+MBR_100503,IEEE Membership DB,Bradley Yang,byang@ieee.org,+1-363-631-7970,84185908,Member,IEEE Signal Processing Society,Central NJ Section,"07811 Jennifer Ramp, Robertmouth",2022-02-21
+SEC_100504,Local Section Roster,Bradley Yang,bradley.yang@thomas-reilly.edu,(363) 631-7970,84185908,Member,IEEE Signal Processing Society,Central NJ Section,"07811 Jennifer Ramp, Robertmouth, IN",2025-10-11
+MBR_100505,IEEE Membership DB,Spencer H.,spencer.hughes@ieee.org,929.298.3168,97658207,Member,IEEE Signal Processing Society,Munich Section,"3543 Martinez Square, West Derekmouth, Kuwait",2021-09-01
+SOC_100506,Society Directory,Spencer Hughes,shughes@ieee.org,+1-929-298-3168,97658207,,IEEE Signal Processing Society,,,2021-09-23
+XPL_100507,IEEE Xplore Access,Spencer Hughes,spencerh@ieee.org,929-298-3168,97658207,,IEEE Signal Processing Society,,"3543 Martinez Square, West Derekmouth, Kuwait",2024-11-09
+SEC_100508,Local Section Roster,Spencer Hughes,spencer.hughes@atkins-robinson.edu,+1-929-298-3168,97658207,Member,IEEE Signal Processing Society,Munich Section,"3543 Martinez Square, West Derekmouth, Kuwait",2021-11-30
+MBR_100509,IEEE Membership DB,Thomas Ford,t.ford@ieee.org,686.717.7318,95945990,Graduate Student Member,IEEE Power & Energy Society,Beijing Section,"633 Hamilton Forges, New Rachel, MT",2023-06-23
+SOC_100510,Society Directory,Thomas Ford,thomasf@gmail.com,,95945990,,IEEE Industry Applications Society,,"New Rachel, MT",2022-01-16
+SEC_100511,Local Section Roster,Thomas F.,t.ford@ieee.org,(686) 717-7318,95945990,Graduate Student Member,IEEE Industry Applications Society,Beijing Section,,2022-04-19
+XPL_100512,IEEE Xplore Access,Thomas Ford,t.ford@ieee.org,(686) 717-7318,95945990,,IEEE Industry Applications Society,,"633 Hamilton Forges, New Rachel, MT",2021-10-20
+MBR_100513,IEEE Membership DB,Heather Russell,h.russell@ieee.org,,97713443,Member,IEEE Power & Energy Society,Santa Clara Valley Section,"Hodgeshire, AK",2024-09-06
+SEC_100514,Local Section Roster,Heather Russell,heatherr@yahoo.com,570.165.8046,97713443,Member,IEEE Power & Energy Society,Santa Clara Valley Section,"54310 Caldwell Estates, Hodgeshire, AK",2021-11-12
+MBR_100515,IEEE Membership DB,Helen Salazar,h.salazar@ieee.org,528-183-2538,99663872,Member,IEEE Signal Processing Society,Munich Section,,2023-05-27
+MBR_100516,IEEE Membership DB,"Mclaughlin, Deborah",deborah.mclaughlin@ieee.org,,83406090,Member,IEEE Signal Processing Society,Boston Section,"Brianstad, MI",2024-02-18
+MBR_100517,IEEE Membership DB,Keith Frye,keithf@ieee.org,043.103.8569,95157946,Member,IEEE Industry Applications Society,Sydney Section,,2025-04-25
+CONF_100518,IEEE Conference Registration,K. Frye,k.frye@yahoo.com,(043) 103-8569,95157946,,IEEE Industry Applications Society,,"41272 Abigail Road, West Robertside, Venezuela",2025-09-21
+MBR_100519,IEEE Membership DB,Todd Wade,toddw@ieee.org,,87074957,Senior Member,IEEE Communications Society,Toronto Section,"4924 Kristina Forks Suite 540, West Justin, Zimbabwe",2022-11-19
+SOC_100520,Society Directory,"Wade, Todd",t.wade@wood-harris.edu,222.310.5927,87074957,,IEEE Industry Applications Society,,"4924 Kristina Forks Suite 540, West Justin",2023-10-07
+XPL_100521,IEEE Xplore Access,Todd W.,t.wade@ieee.org,,87074957,,IEEE Industry Applications Society,,"4924 Kristina Forks Suite 540, West Justin, Zimbabwe",2021-12-13
+MBR_100522,IEEE Membership DB,Jasmine Wade,jasmine.wade@ieee.org,+1-297-517-0281,84186380,Senior Member,IEEE Communications Society,Sydney Section,"57828 Martinez Burg Suite 727, Ericside, NY",2022-07-24
+SEC_100523,Local Section Roster,Jasmine W.,j.wade@johnson-williamson.edu,297.517.0281,84186380,Senior Member,IEEE Communications Society,Sydney Section,"57828 Martinez Burg Suite 727, Ericside, NY",2023-09-14
+CONF_100524,IEEE Conference Registration,Jasmine Wade,jasine.wade@outlook.com,297-517-0281,,,IEEE Communications Society,,"57828 Martinez Burg Suite 727, Ericside, NY",2021-10-02
+MBR_100525,IEEE Membership DB,Jeffrey Howard,jeffreyhoward@ieee.org,656.504.5547,95231233,Member,IEEE Robotics and Automation Society,Central NJ Section,"93983 Gonzalez Corner Suite 186, South Louis, Netherlands",2023-04-20
+SEC_100526,Local Section Roster,JEFFREY HOWARD,jhoward@hotmail.com,,95231233,Member,IEEE Robotics and Automation Society,Central NJ Section,"93983 Gonzalez Corner Suite 186, South Louis, Netherlands",2026-02-26
+CONF_100527,IEEE Conference Registration,J. Howard,j.howard@gmail.com,+1-656-504-5547,95231233,,IEEE Robotics and Automation Society,,"93983 Gonzalez Corner Suite 186, South Louis, Netherlands",2024-08-06
+XPL_100528,IEEE Xplore Access,"Howard, Jeffrey",jeffrey.howard@ieee.org,656.504.5547,,,IEEE Robotics and Automation Society,,"South Louis, Netherlands",2026-01-10
+MBR_100529,IEEE Membership DB,Christopher Luna,cluna@ieee.org,(106) 462-8792,94490112,Member,IEEE Industry Applications Society,Central NJ Section,"674 Linda Manors Suite 299, East Jaredfort, VI",2026-05-12
+SOC_100530,Society Directory,Christopher Luna,cristopher.luna@gmail.com,106-462-8792,94490112,,IEEE Antennas and Propagation Society,,,2023-08-27
+CONF_100531,IEEE Conference Registration,Christopher Luna,cluna@ieee.org,106-462-8792,94490112,,IEEE Antennas and Propagation Society,,"674 Linda Manors Suite 299, East Jaredfort, VI",2023-03-25
+XPL_100532,IEEE Xplore Access,Christopher Luna,christopherl@ieee.org,106-462-8792,94490112,,IEEE Antennas and Propagation Society,,"674 Linda Manors Suite 299, East Jaredfort, VI",2024-06-09
+MBR_100533,IEEE Membership DB,J. James,jacobj@ieee.org,(471) 959-7964,86723365,Senior Member,IEEE Antennas and Propagation Society,Santa Clara Valley Section,"49478 Walker Turnpike Apt. 244, Martinezport",2025-04-04
+SEC_100534,Local Section Roster,J. James,jacob.james@ieee.org,+1-471-959-7964,86723365,Senior Member,IEEE Communications Society,Santa Clara Valley Section,"49478 Walker Turnpike Apt. 244, Martinezport, MT",2024-04-06
+SOC_100535,Society Directory,Jacob James,jacboj@ieee.org,+1-471-959-7964,86723365,,IEEE Communications Society,,"49478 Walker Turnpike Apt. 244, Martinezport",2022-03-20
+XPL_100536,IEEE Xplore Access,Jacob James,jacob.james@ieee.org,+1-471-959-7964,86723365,,IEEE Communications Society,,"Martinezport, MT",2025-07-04
+MBR_100537,IEEE Membership DB,"Quinn, Nathaniel",nathaniel.quinn@ieee.org,+1-481-832-1928,90236530,Senior Member,IEEE Power & Energy Society,Toronto Section,"2902 Murray Square, West Frank, Faroe Islands",2022-12-10
+CONF_100538,IEEE Conference Registration,Nathaniel Quinn,nathaniel.quinn@gmail.com,481-832-1928,90236530,,IEEE Power & Energy Society,,"2902 Murray Square, West Frank, Faroe Islands",2025-10-19
+SOC_100539,Society Directory,"Quinn, Nathaniel",nathaniel.quinn@brennan-serrano.edu,(481) 832-1928,90236530,,IEEE Power & Energy Society,,"2902 Murray Square, West Frank, Faroe Islands",2022-11-21
+SEC_100540,Local Section Roster,Nathaniel Q.,nquinn@ieee.org,+1-481-832-1928,90236530,Senior Member,IEEE Power & Energy Society,Toronto Section,"2902 Murray Square, West Frank",2023-09-25
+MBR_100541,IEEE Membership DB,Gail Turner,gailt@ieee.org,(120) 754-5279,94261400,Graduate Student Member,IEEE Signal Processing Society,Boston Section,"89520 April Landing Suite 652, East Ericbury",2024-02-13
+MBR_100542,IEEE Membership DB,Kathryn Peterson,kathrynp@ieee.org,(071) 401-4011,95688407,Member,IEEE Computer Society,Sydney Section,"Port Toddchester, AZ",2025-11-04
+SOC_100543,Society Directory,Kathryn Peterson,kathryn.peterson@ieee.org,+1-071-401-4011,95688407,,IEEE Power & Energy Society,,"13223 Martinez Curve Apt. 611, Port Toddchester, AZ",2022-09-04
+MBR_100544,IEEE Membership DB,Jamie S.,jsantana@ieee.org,(190) 833-4280,84625985,Associate Member,IEEE Industry Applications Society,Munich Section,"501 Meghan Harbors, Michaelhaven",2022-03-29
+SEC_100545,Local Section Roster,Jamie,jamie.santana@ieee.org,190.833.4280,84625985,Associate Member,IEEE Industry Applications Society,Munich Section,"501 Meghan Harbors, Michaelhaven, Slovakia (Slovak Republic)",2023-05-30
+XPL_100546,IEEE Xplore Access,Jamie S.,jamies@ieee.org,190-833-4280,,,IEEE Industry Applications Society,,"501 Meghan Harbors, Michaelhaven",2024-01-18
+MBR_100547,IEEE Membership DB,C. Lewis,corey.lewis@ieee.org,,80324845,Senior Member,IEEE Antennas and Propagation Society,Toronto Section,"9271 Mary Light Suite 383, Rodriguezmouth, DE",2023-02-16
+SEC_100548,Local Section Roster,"Lewis, Corey",clewis@ieee.org,548.015.7164,80324845,Senior Member,IEEE Antennas and Propagation Society,Toronto Section,"9271 Mary Light Suite 383, Rodriguezmouth, DE",2023-04-25
+XPL_100549,IEEE Xplore Access,Corey,c.lewis@ieee.org,548-015-7164,,,IEEE Antennas and Propagation Society,,"9271 Mary Light Suite 383, Rodriguezmouth, DE",2025-06-17
+CONF_100550,IEEE Conference Registration,Corey Lewis,coreyl@ieee.org,(548) 015-7164,80324845,,IEEE Antennas and Propagation Society,,"9271 Mary Light Suite 383, Rodriguezmouth",2024-09-03
+MBR_100551,IEEE Membership DB,Theresa W.,theresaw@ieee.org,,86901375,Member,IEEE Industry Applications Society,Sydney Section,"6317 White Spring Suite 167, North Douglasfurt",2023-02-12
+XPL_100552,IEEE Xplore Access,THERESA WALLACE,twallace@ieee.org,(353) 961-3674,,,IEEE Industry Applications Society,,"6317 White Spring Suite 167, North Douglasfurt, UT",2022-07-31
+SEC_100553,Local Section Roster,"Wallace, Theresa",twallace@ieee.org,353-961-3674,86901375,Member,IEEE Industry Applications Society,Sydney Section,"6317 White Spring Suite 167, North Douglasfurt",2023-01-16
+MBR_100554,IEEE Membership DB,Laurie H.,lharding@ieee.org,(269) 524-9911,81465136,Member,IEEE Industry Applications Society,Boston Section,,2025-12-01
+CONF_100555,IEEE Conference Registration,Laurie Harding,lharding@yahoo.com,(269) 524-9911,81465136,,IEEE Industry Applications Society,,"9678 Hernandez Motorway Apt. 147, Hallberg",2022-04-21
+SEC_100556,Local Section Roster,Laurie Harding,lharding@ieee.org,(269) 524-9911,81465136,Member,IEEE Industry Applications Society,Boston Section,"9678 Hernandez Motorway Apt. 147, Hallberg, AK",2025-09-28
+MBR_100557,IEEE Membership DB,J. Bates,jamesb@ieee.org,276-246-7197,94687568,Member,IEEE Industry Applications Society,Bangalore Section,"485 Stephanie Bypass Suite 167, Melissamouth, Kuwait",2022-09-16
+MBR_100558,IEEE Membership DB,A. Ryan,aryan@ieee.org,(561) 655-6503,85150487,Member,IEEE Communications Society,UK and Ireland Section,"8280 Baker Ramp Suite 954, Bryanshire, Aruba",2025-05-17
+SOC_100559,Society Directory,"Ryan, Angela",angela.ryan@young.edu,(561) 655-6503,85150487,,IEEE Communications Society,,,2025-06-06
+MBR_100560,IEEE Membership DB,BRITTANY LOZANO,brittany.lozano@ieee.org,,83241465,Life Member,IEEE Industry Applications Society,Boston Section,"1520 Johnson Shoals, Bradleychester, Ethiopia",2025-03-16
